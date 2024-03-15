@@ -19,5 +19,10 @@ https://github.com/thunderbird-team/ThunderBird_OpenSource
 
  ![image](https://github.com/GiveStar/private-plot/assets/86779955/174ce7ac-3e67-4b19-86d3-aa3da98ea95d)
  当然还有更多的插件、脚本，还有倒下了一个，又站起来的千千万万个       
- 
+
+ 〉吃水不忘挖井人    
+
+- 歌词适配
+
+
 
