@@ -22,6 +22,11 @@ https://github.com/thunderbird-team/ThunderBird_OpenSource
 
  > 吃水不忘挖井人    
 
+- MusicLake
+https://github.com/caiyonglong/MusicLake/
+![image](https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9)
+
+
 - 歌词适配
   ![image](https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181)
 
