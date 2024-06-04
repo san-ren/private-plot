@@ -93,7 +93,7 @@ https://github.com/thunderbird-team/ThunderBird_OpenSource
 
 都感觉是国内玩剩下的
 
-商业模式的迭代速度
+商业模式的迭代
 
 早已跨越赶超，甩开了十八条街
 
@@ -101,7 +101,7 @@ https://github.com/thunderbird-team/ThunderBird_OpenSource
 
 但这只是经济发展的一朵水花
 
-很多方面的发展都是这样
+很多产业的发展都是这样
 
 先任其野蛮发展
 
