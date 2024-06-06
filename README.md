@@ -66,7 +66,10 @@ https://github.com/thunderbird-team/ThunderBird_OpenSource
    
    https://api.94speed.com/
    
-   ![图片](https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232)
+      <details>
+        <summary>preview</summary>
+        <image src="https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232">
+      </details>
 
 悄无声息的湮灭了，等到域名过期的那一天
 
