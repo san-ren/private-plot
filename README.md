@@ -46,10 +46,10 @@
 - KinhDown    
  https://kinhdown.kinh.cc/
 
-<details>
-    <summary>preview</summary>
-    <image src="https://github.com/GiveStar/private-plot/assets/86779955/eea316b1-2f4d-4677-9b05-f8cb4315f22e">
-</details>
+    <details>
+        <summary>preview</summary>
+        <image src="https://github.com/GiveStar/private-plot/assets/86779955/eea316b1-2f4d-4677-9b05-f8cb4315f22e">
+    </details>
         
     
 - 雷鸟下载
@@ -57,10 +57,10 @@
 https://github.com/thunderbird-team/ThunderBird_OpenSource
 
 每天限量几G，开发者爱心发电，2020年底也撑不下去了，详情见issues 
-<details>
-    <summary>preview</summary>
-    <image src="https://github.com/GiveStar/private-plot/assets/86779955/174ce7ac-3e67-4b19-86d3-aa3da98ea95d>
-</details>
+    <details>
+        <summary>preview</summary>
+        <image src="https://github.com/GiveStar/private-plot/assets/86779955/174ce7ac-3e67-4b19-86d3-aa3da98ea95d>
+    </details>
 
  - 就是加速
    
