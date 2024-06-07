@@ -73,7 +73,7 @@
         <image src="https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232">
       </details>
 
-  悄无声息的湮灭了，等到域名过期的那一天
+   悄无声息的湮灭了，等到域名过期的那一天
 
 - 阿里云盘第三方
   
@@ -187,11 +187,11 @@ https://github.com/caiyonglong/MusicLake/
  <details>
         <summary>preview</summary>
         <image src="https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9"
-    </details>
+  </details>
 
 
 - 歌词适配
-[![微信公众号](https://img.shields.io/badge/歌词适配-blue)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NTk3NzE4NA==&scene=124#wechat_redirect)
+[![](https://img.shields.io/badge/微信公众号-歌词适配-blue)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NTk3NzE4NA==&scene=124#wechat_redirect)
 
 <details>
         <summary>preview</summary>
