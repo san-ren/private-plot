@@ -57,22 +57,24 @@
 - 雷鸟下载
 
   https://github.com/thunderbird-team/ThunderBird_OpenSource
+
+  <details>
+    <summary>preview</summary>
+    <image src="https://github.com/GiveStar/private-plot/assets/86779955/174ce7ac-3e67-4b19-86d3-aa3da98ea95d">
+  </details>
     
   每天限量几G，开发者爱心发电，2020年底也撑不下去了，详情见issues 
-    <details>
-        <summary>preview</summary>
-        <image src="https://github.com/GiveStar/private-plot/assets/86779955/174ce7ac-3e67-4b19-86d3-aa3da98ea95d>
-    </details>
+    
 
 
 - 就是加速
    
-   https://api.94speed.com/
+  https://api.94speed.com/
    
-      <details>
-        <summary>preview</summary>
-        <image src="https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232">
-      </details>
+  <details>
+    <summary>preview</summary>
+    <image src="https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232">
+  </details>
 
    悄无声息的湮灭了，等到域名过期的那一天
 
