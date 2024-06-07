@@ -184,7 +184,10 @@
 
 - MusicLake
 https://github.com/caiyonglong/MusicLake/
-![image](https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9)
+ <details>
+        <summary>preview</summary>
+        <image src="https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9"
+    </details>
 
 
 - 歌词适配
