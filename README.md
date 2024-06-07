@@ -184,20 +184,20 @@
 
 - MusicLake
 https://github.com/caiyonglong/MusicLake/
- <details>
-        <summary>preview</summary>
-        <image src="https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9"
-  </details>
+    <details>
+          <summary>preview</summary>
+          <image src="https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9"
+    </details>
 
 
 - 歌词适配
 [![](https://img.shields.io/badge/微信公众号-歌词适配-blue)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NTk3NzE4NA==&scene=124#wechat_redirect)
 
-<details>
-        <summary>preview</summary>
-        <image src="https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181"
-    </details>
-  
+    <details>
+            <summary>preview</summary>
+            <image src="https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181"
+        </details>
+      
 
 
 
