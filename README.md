@@ -73,7 +73,7 @@
         <image src="https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232">
       </details>
 
-悄无声息的湮灭了，等到域名过期的那一天
+  悄无声息的湮灭了，等到域名过期的那一天
 
 - 阿里云盘第三方
   
@@ -81,7 +81,7 @@
 
   或停更、删库，或观望踌躇
 
- 还有一些以阿里云盘做影视源的也是含恨而死
+  还有一些以阿里云盘做影视源的也是含恨而死
   
   新晋大厂网盘辉煌不再，当然，这一切都是必然
 
@@ -191,7 +191,13 @@ https://github.com/caiyonglong/MusicLake/
 
 
 - 歌词适配
-  ![image](https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181)
+[![微信公众号](https://img.shields.io/badge/歌词适配-blue)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NTk3NzE4NA==&scene=124#wechat_redirect)
+
+<details>
+        <summary>preview</summary>
+        <image src="https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181"
+    </details>
+  
 
 
 
