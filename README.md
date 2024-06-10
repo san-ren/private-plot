@@ -39,6 +39,10 @@
 
 
 ## 网盘
+
+2024年6月3日21：00，百度封禁解析账号，断绝解析api，解析时代落幕。
+
+
 - PanDownload
 [![](https://img.shields.io/badge/github-pandownload_backup-blue)](https://github.com/minggithubaccount/pandownload_backup)
 
