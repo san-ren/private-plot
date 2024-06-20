@@ -79,13 +79,20 @@ https://1q43.blog/post/766
 > 4.互联网与中国后现代性呓语 – 虹线（2022-04-18）
 https://1q43.blog/post/782
 >
-> 5.互联网公司的管理神话破灭 – 虹线（2024-02-04）
+> 5.【中文互联网正成为一座牢笼【智先生】】（2023-12-06 ） https://www.bilibili.com/video/BV1KC4y1R7NM/?share_source=copy_web&vd_source=e7e7b7b17da2a00765c198e1206fa900
+>
+> 6.互联网公司的管理神话破灭 – 虹线（2024-02-04）
 https://1q43.blog/post/5187
 >
-> 6.世界需要重回资本主义 – 虹线（2024-06-11）
+> 7.何加盐｜中文互联网正在加速崩塌（2024-5-23）
+https://project-gutenberg.github.io/Pincong/post/a5603ace66c80ee5e1f3d8417189df32/
+>
+> 8.世界需要重回资本主义 – 虹线（2024-06-11）
 https://1q43.blog/post/5901
 >
+> 9.【谁才是杀死中文互联网的罪魁祸首？【丰言疯话】】（2024-05-26） https://www.bilibili.com/video/BV1ub421i7Hr/?share_source=copy_web&vd_source=e7e7b7b17da2a00765c198e1206fa900
 >
+> 10.
 
 
 
