@@ -92,7 +92,8 @@ https://1q43.blog/post/5901
 >
 > 9.【谁才是杀死中文互联网的罪魁祸首？【丰言疯话】】（2024-05-26） https://www.bilibili.com/video/BV1ub421i7Hr/?share_source=copy_web&vd_source=e7e7b7b17da2a00765c198e1206fa900
 >
-> 10.
+> 10.🙏少读点书，多刷刷抖音吧 – 虹线（2024-06-18）
+https://1q43.blog/post/2233
 
 
 
