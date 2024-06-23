@@ -1,7 +1,7 @@
 
 
 - [逛GitHub](#逛github)
-- [1.互联网](#1互联网)
+- [1. 互联网](#1-互联网)
   - [1.1 网络废弃仓库](#11-网络废弃仓库)
   - [1.2 AI](#12-ai)
   - [1.3 网盘](#13-网盘)
@@ -149,17 +149,21 @@ https://1q43.blog/post/2233
 
 ## 1.2 AI
 
-- runningcheese/Awesome-AI: Awesome AI，你的《人工智能指南》！
-https://github.com/runningcheese/Awesome-AI
+- Awesome-AI: Awesome AI，你的《人工智能指南》！
+  
+  https://github.com/runningcheese/Awesome-AI
 
-- HqWu-HITCS/Awesome-Chinese-LLM: 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+- Awesome-Chinese-LLM: 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+  
+   https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 
 - CrazyBoyM/llama3-Chinese-chat: Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
-https://github.com/CrazyBoyM/llama3-Chinese-chat
+
+  https://github.com/CrazyBoyM/llama3-Chinese-chat
 
 - Richasy/Rodel.Downloader: 用于 Hugging Face, Model Scope 和 Civitai 等网站的 AI 模型下载
-https://github.com/Richasy/Rodel.Downloader
+
+  https://github.com/Richasy/Rodel.Downloader
 
 ## 1.3 网盘
 
