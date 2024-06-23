@@ -1,11 +1,55 @@
-[TOC]
 
 
+- [逛GitHub](#逛github)
+- [1.互联网](#1互联网)
+  - [1.1 网络废弃仓库](#11-网络废弃仓库)
+  - [1.2 AI](#12-ai)
+  - [1.3 网盘](#13-网盘)
+  - [1.4 影音](#14-影音)
+- [2. 理财](#2-理财)
 
+
+# 逛GitHub
+
+- HowToCook: 程序员在家做饭方法指南。
+  
+  https://github.com/Anduin2017/HowToCook
+
+- aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+  
+  https://github.com/bleedline/aimoneyhunter
+
+- HelloGitHub:  分享 GitHub 上有趣、入门级的开源项目。
+  
+  https://github.com/521xueweihan/HelloGitHub
+
+- free-programming-books-zh.md at main · EbookFoundation/free-programming-books
+  
+  https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
+
+- free-programming-books-zh_CN:  免费的计算机编程类中文书籍
+  
+  https://github.com/justjavac/free-programming-books-zh_CN
+
+- awesome-courses: List of awesome university courses for learning Computer Science!
+  
+  https://github.com/prakhar1989/awesome-courses
+
+
+- awesome：😎关于各种有趣话题的精彩列表 
+  
+  https://github.com/sindresorhus/awesome
+
+- 
+
+
+- awesome · GitHub Topics
+  
+  https://github.com/topics/awesome
 
 # 1.互联网
 
-## 1.1 开篇：网络废弃仓库
+## 1.1 网络废弃仓库
 
     互联网的精神是开放共享
     
@@ -72,7 +116,7 @@
 
 
 
->扩展阅读：
+扩展阅读：
 >
 > 1.互联网死了23%，这只是开始 – 虹线（2015-04-14）
 https://1q43.blog/post/1927
@@ -103,7 +147,19 @@ https://1q43.blog/post/5901
 https://1q43.blog/post/2233
 
 
+## 1.2 AI
 
+- runningcheese/Awesome-AI: Awesome AI，你的《人工智能指南》！
+https://github.com/runningcheese/Awesome-AI
+
+- HqWu-HITCS/Awesome-Chinese-LLM: 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+
+- CrazyBoyM/llama3-Chinese-chat: Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
+https://github.com/CrazyBoyM/llama3-Chinese-chat
+
+- Richasy/Rodel.Downloader: 用于 Hugging Face, Model Scope 和 Civitai 等网站的 AI 模型下载
+https://github.com/Richasy/Rodel.Downloader
 
 ## 1.3 网盘
 
@@ -171,7 +227,7 @@ https://1q43.blog/post/2233
 
  > 吃水不忘挖井人    
 
-## 影音
+## 1.4 影音
 
     网民的知识产权意识普遍比较淡薄
 
@@ -282,7 +338,7 @@ https://1q43.blog/post/2233
       
 
 
-# 发展：经济篇
+# 2. 理财
 
 2023年5月接触理财，开始小额买入指数基金
 
