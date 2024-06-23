@@ -47,7 +47,7 @@
   
   https://github.com/topics/awesome
 
-# 1.互联网
+# 1. 互联网
 
 ## 1.1 网络废弃仓库
 
