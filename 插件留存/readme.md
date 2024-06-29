@@ -16,7 +16,13 @@
   
   https://github.com/AirBashX/UserScript?tab=readme-ov-file
   
+- 🔗 链接助手
+  
+  https://greasyfork.org/zh-CN/scripts/464541-links-helper
 
+  - Open All Links(批量打开网页链接)
+    
+    https://greasyfork.org/zh-CN/scripts/463521-open-all-links-%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5
 
 
 
