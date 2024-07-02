@@ -153,6 +153,21 @@ https://1q43.blog/post/2233
   
   https://github.com/runningcheese/Awesome-AI
 
+- Ollama：启动并运行大型语言模型。
+  
+  https://ollama.com/
+
+- Open WebUI
+  
+  https://openwebui.com/
+
+- 
+
+
+- MaxKB - 基于大语言模型的知识库问答系统
+  
+  https://maxkb.cn/
+
 - Awesome-Chinese-LLM: 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
   
    https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
