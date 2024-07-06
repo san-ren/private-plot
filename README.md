@@ -15,6 +15,22 @@
   
   https://github.com/Anduin2017/HowToCook
 
+-  GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
+
+    https://github.com/phodal/github
+
+- GotGitHub: an open source E-book about GitHub in Chinese
+  
+  https://github.com/gotgit/gotgithub
+
+- GitHub-Chinese-Top-Charts: :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+  https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+
+- the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+  
+  https://github.com/trimstray/the-book-of-secret-knowledge
+
 - aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
   
   https://github.com/bleedline/aimoneyhunter
@@ -22,6 +38,10 @@
 - HelloGitHub:  分享 GitHub 上有趣、入门级的开源项目。
   
   https://github.com/521xueweihan/HelloGitHub
+
+- awesome-for-beginners: A list of awesome beginners-friendly projects.
+  
+  https://github.com/MunGell/awesome-for-beginners
 
 - free-programming-books-zh.md at main · EbookFoundation/free-programming-books
   
@@ -34,6 +54,10 @@
 - awesome-courses: List of awesome university courses for learning Computer Science!
   
   https://github.com/prakhar1989/awesome-courses
+
+- awesome-interview-questions: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute!
+  
+  https://github.com/DopplerHQ/awesome-interview-questions
 
 
 - awesome：😎关于各种有趣话题的精彩列表 
