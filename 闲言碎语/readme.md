@@ -40,24 +40,24 @@
 
 天空逐渐黯淡。
 
-    - MathewSachin/Captura: Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+- MathewSachin/Captura: Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
-        https://github.com/MathewSachin/Captura
+    https://github.com/MathewSachin/Captura
 
 
-    归档后还在持续增长star数目
+      归档后还在持续增长star数目
 
-    fork数量达到2k
+      fork数量达到2k
 
-    足以说明这是一个非常优秀的项目
+      足以说明这是一个非常优秀的项目
 
-    2024年能够聚合如此之多优秀功能的也很罕见
+      2024年能够聚合如此之多优秀功能的也很罕见
 
-    被用户本地化为 20 多种语言
+      被用户本地化为 20 多种语言
 
-    怕是覆盖了地球大部分面积
+      怕是覆盖了地球大部分面积
 
-    惜哉，哀哉
+      惜哉，哀哉
 
 ![alt text](image-1.png)
 
