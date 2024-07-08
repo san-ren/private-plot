@@ -6,7 +6,7 @@
     https://github.com/LSPosed/LSPatch
 
 
-- HSSkyBoy/NPatch: NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+- NPatch: NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
     https://github.com/HSSkyBoy/NPatch
 
@@ -15,9 +15,13 @@
 
     https://github.com/RikkaApps/Shizuku
 
-- 
+- Browse Modules - Xposed Module Repository
+    
+    https://modules.lsposed.org/
 
-
+- Xposed Modules Repository
+    
+    https://github.com/Xposed-Modules-Repo
 
 
 
