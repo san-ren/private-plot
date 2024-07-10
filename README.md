@@ -73,6 +73,26 @@
 
 # 1. 互联网
 
+- Ladybird ：全新独立开源浏览器
+
+  https://github.com/goldmansachs/gs-quant
+
+  https://ladybird.org/
+
+  瑞典程序员Andreas Kling为了打发戒毒后无所事事的时光，他开始开发一套全新的操作系统：
+  
+  SerenityOS/宁静OS
+
+  后来又从其中分离出浏览器引擎部分，计划基于此做一个全新、跨平台的开源浏览器，它没有来自其它浏览器的代码。
+  
+  2023年，电子商务公司Shopify向LadyBird捐款10万美元，支持LadyBird的开发
+
+  Chris Wanstrath，GitHub联合创始人，捐赠100万美元，和Andreas一期推出了LadyBird浏览器计划，这是一家美国501(c)(3) 非营利组织。
+
+  计划在 2026 夏天发布第一个 Alpha 版本。
+
+  2024.7.10
+
 ## 1.1 网络废弃仓库
 
     互联网的精神是开放共享
