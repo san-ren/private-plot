@@ -70,7 +70,9 @@
   
   https://github.com/codehub666/94list
 
-- 
+- **baiduwp-php**: A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
+  
+  https://github.com/yuantuo666/baiduwp-php
 
 
 
