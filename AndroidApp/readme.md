@@ -6,8 +6,8 @@
 
 > 先从音乐开始吧，其实很多老牌播放器都很优秀，比如AIMP、海贝音乐一类，但不免显得中庸，还是新近诞生的更符合最新的审美
 
-|名称|来源|说明|
-|:---:|:---:|:---|
+|名称|<div align = center> 来源 </div>|<div align = center> 说明 </div>|
+|:---:|:---|:---|
 酷狗音乐概念版|各大应用商店|每日领会员
 LX music|https://github.com/lyswhut/lx-music-mobile|说起音乐，我认为逃不脱洛雪，高度自定义牢牢地拴住了我😁
 Listen1|https://github.com/listen1/listen1_mobile|2024年11月记录时发现扩展比客户端star数更多，挺好的，和洛雪差异化发展
