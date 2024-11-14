@@ -1,4 +1,10 @@
-## 使用中
+## 
+
+### 指定站点
+
+- **FIX for "Bing Search returns to the top" !**
+
+   https://greasyfork.org/zh-CN/scripts/461790-fix-for-bing-search-returns-to-the-top
 
 - **bilibili-cleaner**: bilibili 页面净化大师，深度净化 B 站页面，过滤视频，过滤评论
 
@@ -7,11 +13,18 @@
 - **hanydd/BilibiliSponsorBlock**: 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。
     
    https://github.com/hanydd/BilibiliSponsorBlock
-
-- **FIX for "Bing Search returns to the top" !**
-
-   https://greasyfork.org/zh-CN/scripts/461790-fix-for-bing-search-returns-to-the-top
+- **知乎修改器**🤜持续更新🤛努力实现功能最全的知乎配置插件
   
+  https://greasyfork.org/zh-CN/scripts/423404-%E7%9F%A5%E4%B9%8E%E4%BF%AE%E6%94%B9%E5%99%A8-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E5%8A%AA%E5%8A%9B%E5%AE%9E%E7%8E%B0%E5%8A%9F%E8%83%BD%E6%9C%80%E5%85%A8%E7%9A%84%E7%9F%A5%E4%B9%8E%E9%85%8D%E7%BD%AE%E6%8F%92%E4%BB%B6
+
+- **知乎浏览助手**
+  
+  https://greasyfork.org/zh-CN/scripts/400790-%E7%9F%A5%E4%B9%8E%E6%B5%8F%E8%A7%88%E5%8A%A9%E6%89%8B
+- **EasyCSDN**: 这是一款促进CSDN极致简洁和高效的插件。免费共享大量创新功能，如：净化页面、展示全屏、显示推荐、复制文本、展开代码等。让我们的学习体验无比简洁、专注、高效、畅快。
+
+  https://github.com/xcanwin/EasyCSDN
+
+  ### 通用
 - **Open-the-F-king-URL-Right-Now**: 自动跳转某些网站不希望用户直达的外链
   
   https://github.com/OldPanda/Open-the-F-king-URL-Right-Now
