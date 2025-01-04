@@ -10,10 +10,31 @@
 
 
 # 逛GitHub
+### 看百态
 
 - HowToCook: 程序员在家做饭方法指南。
   
   https://github.com/Anduin2017/HowToCook
+
+
+- HowToLiveLonger: 程序员延寿指南 
+  
+  https://github.com/geekan/HowToLiveLonger
+
+- aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+  
+  https://github.com/bleedline/aimoneyhunter
+
+- WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总
+  
+  https://github.com/WeNeedHome/SummaryOfLoanSuspension
+
+- chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+  
+  https://github.com/1c7/chinese-independent-developer
+
+
+### 专业性
 
 -  GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
@@ -30,10 +51,6 @@
 - the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
   
   https://github.com/trimstray/the-book-of-secret-knowledge
-
-- aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
-  
-  https://github.com/bleedline/aimoneyhunter
 
 - HelloGitHub:  分享 GitHub 上有趣、入门级的开源项目。
   
