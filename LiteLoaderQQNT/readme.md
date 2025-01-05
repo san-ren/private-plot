@@ -3,12 +3,14 @@
 > 虽说跟TIM相比，不能说很像只能说一模一样
 >
 > 但对于一个TIM用户来说，喜闻乐见
+>
+> 浏览器般的本质，使其拥有极高的操作性和可玩性，就像火狐
 
 # LiteLoaderQQNT 
 
 官网：https://liteloaderqqnt.github.io/
 
-浏览器般的本质，使其拥有极高的操作性和可玩性，就像火狐
+
 
 ## 全局
 
@@ -16,7 +18,7 @@
   
   https://github.com/ltxhhz/LL-plugin-list-viewer/tree/main
 
-- **PluginInstaller**: LiteLoaderQQNT 插件安装器
+- **PluginInstaller**:  插件安装器
 
   https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller
 
