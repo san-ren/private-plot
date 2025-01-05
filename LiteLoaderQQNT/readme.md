@@ -44,7 +44,7 @@
   
   https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner
 
-## 消息
+## 消息本身
 
 - **qqMessageBlocker**: 一个基于QQNT的QQ信息消息屏蔽插件，支持按关键字和用户名屏蔽文字，屏蔽emoji表情，屏蔽图片表情包，屏蔽群机器人，屏蔽超级表情。
 
@@ -58,10 +58,6 @@
 
   https://github.com/pasical/Remove-Custom-Bubbles
 
-- **AutoForward**：自动转发QQ消息至指定的好友、群聊或群内成员
-
-  https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward
-
 - **QR-Decode**:  聊天中的图片二维码解析
 
   https://github.com/xh321/LiteLoaderQQNT-QR-Decode
@@ -74,6 +70,14 @@
 
   https://github.com/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message/tree/main
 
+- **Anti-Recall**:  简易防撤回
+  
+  https://github.com/xh321/LiteLoaderQQNT-Anti-Recall
+
+  基操，轻量工具箱也有防撤回，择优纳入
+
+### 消息外围
+
 - **QuickReply**: 快捷回复
 
   https://github.com/adproqwq/LiteLoaderQQNT-QuickReply
@@ -82,15 +86,13 @@
 
   https://github.com/adproqwq/LiteLoaderQQNT-AutoSendMessages
 
+- **AutoForward**：自动转发QQ消息至指定的好友、群聊或群内成员
+
+  https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward
+
 - **Directly-Jump**:  使用自定义浏览器打开链接并跳过拦截页
   
   https://github.com/xh321/LiteLoaderQQNT-Directly-Jump
-
-- **Anti-Recall**:  简易防撤回
-  
-  https://github.com/xh321/LiteLoaderQQNT-Anti-Recall
-
-  基操，轻量工具箱也有防撤回，择优纳入
 
 - **MergeMessage**：消息聚合
 
