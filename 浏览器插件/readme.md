@@ -1,4 +1,4 @@
-## 
+
 
 ### 指定站点
 
@@ -24,7 +24,11 @@
 
   https://github.com/xcanwin/EasyCSDN
 
-  ### 通用
+
+
+  ### 链接
+
+  
 - **Open-the-F-king-URL-Right-Now**: 自动跳转某些网站不希望用户直达的外链
   
   https://github.com/OldPanda/Open-the-F-king-URL-Right-Now
@@ -32,30 +36,29 @@
 - **自动展开**、 	**骚扰拦截**
   
   https://github.com/AirBashX/UserScript?tab=readme-ov-file
-  
-- 🔗 **链接助手**
-  
-  https://greasyfork.org/zh-CN/scripts/464541-links-helper
+
+- **文本链接自动识别为超链接**
+
+   https://greasyfork.org/zh-CN/scripts/452150-textlink-to-hyperlink
+
+- **linkify-plus-plus**: A userscript/extension which can linkify almost everything. Based on Linkify Plus.
+https://github.com/eight04/linkify-plus-plus
 
 - **Open All Links(批量打开网页链接)**
     
     https://greasyfork.org/zh-CN/scripts/463521-open-all-links-%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5
 
-
-
-
-
-
-
-## 好物收藏
-
-- **github-chinese**: GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
-
-  https://github.com/maboloshi/github-chinese?tab=readme-ov-file
-
-- 🔗**Link-**
+- 🔗**Link-/链简**
 
   https://greasyfork.org/zh-CN/scripts/463904-link
+
+- **🔗 链接助手**（更新于2023年9月19日）
+
+   https://greasyfork.org/zh-CN/scripts/464541-links-helper
+
+- **链接助手**（更新于2021年11月13日）
+
+   https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B
 
 - **链接预览**（2024.6.28发现，但失效）
 
@@ -88,7 +91,9 @@
   https://github.com/yuantuo666/baiduwp-php
 
 
+- **github-chinese**: GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 
+  https://github.com/maboloshi/github-chinese?tab=readme-ov-file
 
 
 
