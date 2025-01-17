@@ -29,3 +29,15 @@
 - **FuckCainiao**: 菜鸟界面优化和广告移除
   
    https://github.com/duzhaokun123/FuckCainiao
+
+
+
+
+
+
+
+
+
+
+     chumoew/Close-Plus: 一款基于Close的免Root去广告模块/A Close-based Root-free advertising module
+https://github.com/chumoew/Close-Plus
