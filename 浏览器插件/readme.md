@@ -98,10 +98,15 @@
 
 
 
+## 扩展
+- **tab-copy**:
 
+   https://github.com/hansifer/tab-copy
 
+- **CopyTabTitleUrl**
 
-
+   https://github.com/k08045kk/CopyTabTitleUrl?tab=readme-ov-file
+- **
 
 
 
