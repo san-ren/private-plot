@@ -18,14 +18,19 @@ LeapMusic|https://apkpure.com/cn/leapmusic/com.leapmusic.leapmusic|优雅的播�
 椒盐音乐|https://play.google.com/store/apps/details?id=com.salt.music|
 
 
+### 三方
+|名称|<div align = center> 来源 </div>|<div align = center> 说明 </div>|
+|:---:|:---|:---|
+Hydrogen|https://github.com/huajiqaq/Hydrogen|第三方知乎
+c001apk|https://github.com/bggRGjQaUbCoE/c001apk|第三方酷安
 
 
       
       MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
       https://github.com/MetaCubeX/ClashMetaForAndroid
       
-      bggRGjQaUbCoE/c001apk: fake coolapk
-      https://github.com/bggRGjQaUbCoE/c001apk
+    
+      
       
       niedev/RTranslator: Open source real-time translation app for Android that runs locally
       https://github.com/niedev/RTranslator
