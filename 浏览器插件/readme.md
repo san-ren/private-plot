@@ -43,7 +43,7 @@
 
 - **linkify-plus-plus**:
 
-   https://github.com/eight04/linkify-plus-plus
+   [https://github.com/eight04/linkify-plus-plus](https://greasyfork.org/zh-CN/scripts/4255-linkify-plus-plus)
 
 - **Open All Links(批量打开网页链接)**
     
