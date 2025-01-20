@@ -37,6 +37,12 @@
   
   https://github.com/AirBashX/UserScript?tab=readme-ov-file
 
+- **1✅双击文本链接转换**
+
+   只找到这一个可在B站评论区生效的
+  
+  https://meta.appinn.net/t/topic/61304/10?u=erzhu
+
 - **文本链接自动识别为超链接**
 
    https://greasyfork.org/zh-CN/scripts/452150-textlink-to-hyperlink
