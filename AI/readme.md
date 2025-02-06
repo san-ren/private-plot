@@ -64,7 +64,10 @@
   windows使用wsl
 
 
--
+-  [LangBot](https://github.com/RockChinQ/LangBot)
+  ![stars](https://img.shields.io/github/stars/RockChinQ/LangBot)
+
+  😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人
 
 -
 
