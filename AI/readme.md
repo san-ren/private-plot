@@ -80,11 +80,11 @@
 - [聊天机器人竞技场（以前的LMSTO）：免费的AI聊天比较和测试最好的AI聊天机器人 ](https://lmarena.ai/)
 ![stars](https://img.shields.io/github/stars/lm-sys/FastChat)
 
-- 生成式 AI（Artificial Intelligence Generated Content，AIGC）
+- **AIGC**：生成式 AI（Artificial Intelligence Generated Content）
 
-- 检索增强生成（Retrieval Augmented Generation，RAG）
+- **RAG**：检索增强生成（Retrieval Augmented Generation）
 
-- 大语言模型（Large Language Model，简称 LLM）
+- **LLM**：大语言模型（Large Language Model ）
 
 -
 
