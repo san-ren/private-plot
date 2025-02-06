@@ -84,6 +84,36 @@
 
 
 
+## AI相关
+
+
+
+- [聊天机器人竞技场（以前的LMSTO）：免费的AI聊天比较和测试最好的AI聊天机器人 ](https://lmarena.ai/)
+![stars](https://img.shields.io/github/stars/lm-sys/FastChat)
+
+-
+
+-
+
+-
+
+-
+
+
+-
+
+-
+
+-
+
+-
+
+
+
+
+
+
+
 
 
 
