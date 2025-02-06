@@ -26,20 +26,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 大模型启动器
 
 - [Ollama](https://github.com/ollama/ollama)
@@ -50,8 +36,6 @@
 
   前身ollama webui
 
-
-
 - [Page Assist ](https://chromewebstore.google.com/detail/page-assist-%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%9A%84-web/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
 
     - 浏览器扩展，默认适配本地ollama，打开即连接ollama输出端口
@@ -60,8 +44,6 @@
 
 
 
-- [MaxKB](https://maxkb.cn/)
-![stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB)
 
 - [AnythingLLM ](https://anythingllm.com/)
     ![stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm)
@@ -73,6 +55,13 @@
 - FastGPT
 
 - Dify
+
+- [MaxKB](https://maxkb.cn/)
+![stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB)
+
+  部署要求：Ubuntu 22.04 / CentOS 7.6 64 位系统
+
+  windows使用wsl
 
 
 -
@@ -91,11 +80,11 @@
 - [聊天机器人竞技场（以前的LMSTO）：免费的AI聊天比较和测试最好的AI聊天机器人 ](https://lmarena.ai/)
 ![stars](https://img.shields.io/github/stars/lm-sys/FastChat)
 
--
+- 生成式 AI（Artificial Intelligence Generated Content，AIGC）
 
--
+- 检索增强生成（Retrieval Augmented Generation，RAG）
 
--
+- 大语言模型（Large Language Model，简称 LLM）
 
 -
 
