@@ -1,3 +1,125 @@
+
+## TTS (Text To Speech)
+
+### [TTS竞技场 - TTS Arena ](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
+
+
+- [**GPT-SoVITS**](https://github.com/RVC-Boss/GPT-SoVITS)
+  ![stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS)
+  [B站：花儿不哭](https://space.bilibili.com/5760446/upload/video)
+  提供整合包
+
+  - [小米坡 GPT-SoVITS ](https://gpt-sovits.xiaomipo.com/)：GPT-SoVITS桌面启动器
+
+    批量API管理器2025 ，把GPT-SoVITS搭建成局域网共用配音，支持多角色合成语音、批量txt文件转语音
+
+
+
+
+- [**ChatTTS**](https://github.com/2noise/ChatTTS)
+![stars](https://img.shields.io/github/stars/2noise/ChatTTS)
+[B站：DataMatters](https://space.bilibili.com/455643159/upload/video)
+  命令行安装
+  - 整合包：[ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
+![stars](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui)
+
+     一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
+
+
+
+
+- [**fish-speech**](https://github.com/fishaudio/fish-speech?tab=readme-ov-file)
+![stars](https://img.shields.io/github/stars/fishaudio/fish-speech)
+[B站：冷月2333](https://space.bilibili.com/23195420)
+
+  [fish-speech-gui](https://github.com/AnyaCoder/fish-speech-gui)
+
+  Windows 用户可以考虑使用 WSL2 或 Docker 来运行代码库
+
+
+
+
+- [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice)
+  ![stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice)
+  阿里巴巴开发，命令行安装
+  - 整合包：[【TTS】CosyVoice1+2 Win整合包，内置FastAPI Gradio WebUI，内置300M，0.5B模型【开源项目】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1obf5Y4E6L/)
+
+
+
+
+- [**F5-TTS**](https://github.com/SWivid/F5-TTS)
+![stars](https://img.shields.io/github/stars/SWivid/F5-TTS)
+
+  由上海交通大学开源的一款高性能文本到语音（TTS）系统
+  
+
+
+
+- [**alltalk_tts**](https://github.com/erew123/alltalk_tts)
+  ![stars](https://img.shields.io/github/stars/erew123/alltalk_tts)
+  命令行安装
+  - 整合包：[【开源项目】AllTalk-TTS Win整合包，多TTS引擎集成（F5、xtts、piper等），基于 Coqui TTS 引擎，内置Gradio和API_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NMfGYAEE6/)
+- 
+
+
+
+
+- [**AI-Vtuber** ](https://github.com/Ikaros-521/AI-Vtuber)
+![stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber)
+
+  AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
+- 
+
+-
+
+-
+
+
+
+
+
+-
+
+-
+
+-
+
+-
+
+
+
+
+
+
+-
+
+-
+
+-
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 大模型下载
 
 
@@ -5,15 +127,14 @@
 
 - [HF-Mirror](https://hf-mirror.com/)
 
-- [魔搭社区](https://www.modelscope.cn/models)
-  
+- [魔搭社区](https://www.modelscope.cn/models):
   阿里镜像站
 
 - [Rodel.Downloader: 用于 Hugging Face, Model Scope 和 Civitai 等网站的 AI 模型下载](https://github.com/Richasy/Rodel.Downloader)
 
 - [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
 
-    生成式AI大模型下载
+
 
 
 -
@@ -28,8 +149,8 @@
 
 ## 大模型启动器
 
-- [Ollama](https://github.com/ollama/ollama)
-![stars](https://img.shields.io/github/stars/ollama/ollama)
+- [Ollama](https://github.com/ollama/ollama) 
+  ![stars](https://img.shields.io/github/stars/ollama/ollama)
 
 - [open-webui](https://github.com/open-webui/open-webui)
   ![stars](https://img.shields.io/github/stars/open-webui/open-webui)
@@ -67,7 +188,7 @@
 -  [LangBot](https://github.com/RockChinQ/LangBot)
   ![stars](https://img.shields.io/github/stars/RockChinQ/LangBot)
 
-  😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人
+     😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人
 
 -
 
