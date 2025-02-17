@@ -1,7 +1,11 @@
 进阶：
 
 
+pip-->pipx
 
+venv-->poetry
+
+requirements.txt-->pyproject.toml
 
 
 
