@@ -9,9 +9,6 @@
   [B站：花儿不哭](https://space.bilibili.com/5760446/upload/video)
   提供整合包
 
-  - [小米坡 GPT-SoVITS ](https://gpt-sovits.xiaomipo.com/)：GPT-SoVITS桌面启动器
-
-    批量API管理器2025 ，把GPT-SoVITS搭建成局域网共用配音，支持多角色合成语音、批量txt文件转语音
 
 
 
