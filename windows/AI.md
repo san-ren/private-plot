@@ -50,6 +50,17 @@
   由上海交通大学开源的一款高性能文本到语音（TTS）系统
   
 
+- [MeloTTS](https://github.com/myshell-ai/MeloTTS)
+![stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS)
+
+  无安装方式
+  - 整合包：[Ikaros-521/MeloTTS](https://github.com/Ikaros-521/MeloTTS)
+
+
+
+
+
+
 
 
 - [**alltalk_tts**](https://github.com/erew123/alltalk_tts)
