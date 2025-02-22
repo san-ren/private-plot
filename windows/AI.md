@@ -77,27 +77,14 @@
 
   AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 - 
-
 -
 
 -
-
-
-
-
-
 -
 
 -
 
 -
-
--
-
-
-
-
-
 
 -
 
@@ -107,24 +94,7 @@
 
 -
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-
 
 
 
@@ -141,9 +111,6 @@
 - [Rodel.Downloader: 用于 Hugging Face, Model Scope 和 Civitai 等网站的 AI 模型下载](https://github.com/Richasy/Rodel.Downloader)
 
 - [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
-
-
-
 
 -
 
@@ -164,6 +131,11 @@
   ![stars](https://img.shields.io/github/stars/open-webui/open-webui)
 
   前身ollama webui
+
+- [DeepClaude](https://github.com/ErlichLiu/DeepClaude)
+![stars](https://img.shields.io/github/stars/ErlichLiu/DeepClaude)
+
+  复合模型使用
 
 - [Page Assist ](https://chromewebstore.google.com/detail/page-assist-%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%9A%84-web/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
 
@@ -191,6 +163,15 @@
   部署要求：Ubuntu 22.04 / CentOS 7.6 64 位系统
 
   windows使用wsl
+
+
+
+ 
+
+
+
+
+
 
 
 -  [LangBot](https://github.com/RockChinQ/LangBot)
