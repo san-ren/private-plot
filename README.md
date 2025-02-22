@@ -1,6 +1,8 @@
 
 
 - [逛GitHub](#逛github)
+    - [看百态](#看百态)
+    - [专业性](#专业性)
 - [1. 互联网](#1-互联网)
   - [1.1 网络废弃仓库](#11-网络废弃仓库)
   - [1.2 网盘](#12-网盘)
@@ -35,6 +37,10 @@
 
 ### 专业性
 
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+![stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning)
+
+  基于项目的教程列表
 -  GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
     https://github.com/phodal/github
