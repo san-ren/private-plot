@@ -7,7 +7,7 @@ venv-->poetry
 
 requirements.txt-->pyproject.toml
 
-
+[d2learn/xlings: 一个用于编程开发、学习和课程搭建的开发者工具集 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation](https://github.com/d2learn/xlings)
 
 [poetry 入门完全指南_poetry使用-CSDN博客](https://blog.csdn.net/weixin_42871919/article/details/137125544)
 
