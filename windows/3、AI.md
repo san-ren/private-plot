@@ -195,8 +195,8 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 
 
-
-
+- [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)
+![stars](https://img.shields.io/github/stars/remsky/Kokoro-FastAPI)
 
 
 
