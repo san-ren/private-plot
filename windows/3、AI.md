@@ -14,16 +14,8 @@
 
 - [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
 
--
-
--
-
--
-
--
-
-
-
+- [minimind](https://github.com/jingyaogong/minimind)
+ ![stars](https://img.shields.io/github/stars/jingyaogong/minimind)
 ## 大模型启动器
 
 - [Ollama](https://github.com/ollama/ollama) 
@@ -97,41 +89,9 @@
 -
 
 
--
-
--
-
--
-
--
-
-
-
-
-
-
-
-
-
 
 One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 OpenAI API 格式访问所有的大模型，开箱即用。
 
-
-
-- 
-
--
-
--
-
--
-
--
-
-
--
-
--
 
 -
 
@@ -193,7 +153,8 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
   无安装方式
   - 整合包：[Ikaros-521/MeloTTS](https://github.com/Ikaros-521/MeloTTS)
 
-
+- [espeak-ng](https://github.com/espeak-ng/espeak-ng)
+  ![stars](https://img.shields.io/github/stars/espeak-ng/espeak-ng)
 
 - [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)
 ![stars](https://img.shields.io/github/stars/remsky/Kokoro-FastAPI)
@@ -217,11 +178,20 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
   ![stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice)
 -
 
--
--
 
--
 
+## AI Agent
+
+- [OpenManus](https://github.com/mannaandpoem/OpenManus)
+![stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus)
+
+  仿照Manus的开源版本
+
+- [owl](https://github.com/camel-ai/owl)
+  ![stars](https://img.shields.io/github/stars/camel-ai/owl)
+
+- [web-ui: Run AI Agent in your browser.](https://github.com/browser-use/web-ui)
+![stars](https://img.shields.io/github/stars/browser-use/web-ui)
 -
 
 -
