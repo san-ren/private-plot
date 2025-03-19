@@ -17,25 +17,19 @@
 ### 目录
 
 - [逛GitHub](#逛github)
-    - [看百态](#看百态)
     - [专业性](#专业性)
+    - [百态仓库](#百态仓库)
 
 
 # 逛GitHub
-### 看百态
 
-- HowToCook: 程序员在家做饭方法指南。
+- awesome：😎关于各种有趣话题的精彩列表 
   
-  https://github.com/Anduin2017/HowToCook
+  https://github.com/sindresorhus/awesome
 
-
-
-
-- aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+- HelloGitHub:  分享 GitHub 上有趣、入门级的开源项目。
   
-  https://github.com/bleedline/aimoneyhunter
-
-
+  https://github.com/521xueweihan/HelloGitHub
 
 - chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
   
@@ -49,7 +43,7 @@
 
   基于项目的教程列表
 
-- GitHub-Chinese-Top-Charts: :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- GitHub-Chinese-Top-Charts: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
   https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
 
@@ -57,9 +51,7 @@
   
   https://github.com/trimstray/the-book-of-secret-knowledge
 
-- HelloGitHub:  分享 GitHub 上有趣、入门级的开源项目。
-  
-  https://github.com/521xueweihan/HelloGitHub
+
 
 - awesome-for-beginners: A list of awesome beginners-friendly projects.
   
@@ -77,15 +69,6 @@
   
   https://github.com/prakhar1989/awesome-courses
 
-- awesome-interview-questions: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute!
-  
-  https://github.com/DopplerHQ/awesome-interview-questions
-
-
-- awesome：😎关于各种有趣话题的精彩列表 
-  
-  https://github.com/sindresorhus/awesome
-
 - awesome · GitHub Topics
   
   https://github.com/topics/awesome
@@ -99,13 +82,13 @@
   
   一只基于 Github Workflows (Bash) 的 JetBrains Mono + Maple Mono 合成字体
 
+- HowToCook: 程序员在家做饭方法指南。
+  
+  https://github.com/Anduin2017/HowToCook
+
 - HowToLiveLonger: 程序员延寿指南 
   
   https://github.com/geekan/HowToLiveLonger
-  
-- WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总
-  
-  https://github.com/WeNeedHome/SummaryOfLoanSuspension
 
 -  GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
@@ -116,6 +99,24 @@
   https://github.com/gotgit/gotgithub
 
 
+- awesome-interview-questions:  A curated awesome list of lists of interview questions. Feel free to contribute!
+  
+  https://github.com/DopplerHQ/awesome-interview-questions
+
+
+
+
+
+
+
+
+- WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总
+  
+  https://github.com/WeNeedHome/SummaryOfLoanSuspension
+
+- aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+  
+  https://github.com/bleedline/aimoneyhunter
 
 
 
