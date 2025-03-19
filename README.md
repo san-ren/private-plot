@@ -3,7 +3,9 @@
 
 - [NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。](https://github.com/NaiboWang/EasySpider)
 - [cfour-hi/gitstars: Github Starred Repositories Manager](https://github.com/cfour-hi/gitstars)
-- [browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
+
+
+
 
 
 
@@ -27,17 +29,13 @@
   https://github.com/Anduin2017/HowToCook
 
 
-- HowToLiveLonger: 程序员延寿指南 
-  
-  https://github.com/geekan/HowToLiveLonger
+
 
 - aimoneyhunter: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
   
   https://github.com/bleedline/aimoneyhunter
 
-- WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总
-  
-  https://github.com/WeNeedHome/SummaryOfLoanSuspension
+
 
 - chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
   
@@ -50,13 +48,6 @@
 ![stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning)
 
   基于项目的教程列表
--  GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
-
-    https://github.com/phodal/github
-
-- GotGitHub: an open source E-book about GitHub in Chinese
-  
-  https://github.com/gotgit/gotgithub
 
 - GitHub-Chinese-Top-Charts: :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
@@ -74,7 +65,7 @@
   
   https://github.com/MunGell/awesome-for-beginners
 
-- free-programming-books-zh.md at main · EbookFoundation/free-programming-books
+- free-programming-books-zh
   
   https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
 
@@ -95,9 +86,6 @@
   
   https://github.com/sindresorhus/awesome
 
-- 
-
-
 - awesome · GitHub Topics
   
   https://github.com/topics/awesome
@@ -105,6 +93,27 @@
 
 
 
+### 百态仓库
+
+- [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono?tab=readme-ov-file)
+  
+  一只基于 Github Workflows (Bash) 的 JetBrains Mono + Maple Mono 合成字体
+
+- HowToLiveLonger: 程序员延寿指南 
+  
+  https://github.com/geekan/HowToLiveLonger
+  
+- WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总
+  
+  https://github.com/WeNeedHome/SummaryOfLoanSuspension
+
+-  GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
+
+    https://github.com/phodal/github
+
+- GotGitHub: an open source E-book about GitHub in Chinese
+  
+  https://github.com/gotgit/gotgithub
 
 
 
@@ -112,8 +121,4 @@
 
 
 
-
-      
-
->  7.
 
