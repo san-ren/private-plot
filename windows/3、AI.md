@@ -136,6 +136,8 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
   Windows 用户可以考虑使用 WSL2 或 Docker 来运行代码库
 
 
+- [Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
+![stars](https://img.shields.io/github/stars/SparkAudio/Spark-TTS)
 
 
 - [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice)
