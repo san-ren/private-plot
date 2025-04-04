@@ -18,6 +18,11 @@
  ![stars](https://img.shields.io/github/stars/jingyaogong/minimind)
 ## 大模型启动器
 
+- [awesome-llm-apps ](https://github.com/Shubhamsaboo/awesome-llm-apps)
+![stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps)
+
+  AI Agents 和 RAG LLM应用程序集合
+
 - [Ollama](https://github.com/ollama/ollama) 
   ![stars](https://img.shields.io/github/stars/ollama/ollama)
 
@@ -192,7 +197,8 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 - [web-ui: Run AI Agent in your browser.](https://github.com/browser-use/web-ui)
 ![stars](https://img.shields.io/github/stars/browser-use/web-ui)
--
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+![stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop)
 
 -
 
