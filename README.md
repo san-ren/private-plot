@@ -81,6 +81,14 @@
 - [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono?tab=readme-ov-file)
   
   一只基于 Github Workflows (Bash) 的 JetBrains Mono + Maple Mono 合成字体
+- [moyu: Github 摸鱼大全！](https://github.com/akira-cn/moyu)
+  ![stars](https://img.shields.io/github/stars/akira-cn/moyu)
+
+- [worth-calculator](https://github.com/Zippland/worth-calculator)
+![stars](https://img.shields.io/github/stars/Zippland/worth-calculator)
+
+
+  工作性价比计算器
 
 - HowToCook: 程序员在家做饭方法指南。
   
