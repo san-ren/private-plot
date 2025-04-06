@@ -110,3 +110,56 @@
 
 
 
+# GitHub 徽章
+
+![Archived](https://img.shields.io/badge/Status-Archived-gray.svg)
+
+### **1\. 文本徽章**
+
+通过构造 URL 参数生成徽章，格式为：  
+`https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
+
+- **LABEL** ：徽标左侧文本（如 `version`）。
+- **MESSAGE** ：徽标右侧文本（如 `1.0.0`）。
+- **COLOR** ：颜色名称（如 `brightgreen`）或十六进制码（如 `#FF0000`）。
+
+**示例** ：
+
+
+```markdown
+![](https://img.shields.io/badge/build-passing-brightgreen)
+```
+生成效果：![build-passing-brightgreen](https://img.shields.io/badge/build-passing-brightgreen)  
+
+
+
+### **2\. 带链接的徽章**
+
+将徽章图片嵌入 Markdown 链接语法中，格式为：
+
+```markdown
+
+[![](徽章图片URL)\](目标链接)
+```
+**示例** ：
+
+```markdown
+[![](https://img.shields.io/badge/license-MIT-blue)\](https://opensource.org/licenses/MIT)
+```
+生成效果：[![license-MIT-blue](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT?spm=a2ty_o01.29997173.0.0.549cc921qeJQwe)  
+
+
+### **3\. 图标集成**
+
+通过 `?icon=` 参数添加图标（支持 Octicons 或自定义图标库）：
+
+- **Octicons 图标** ：直接指定图标名称（如 `?icon=github`）。
+- **自定义图标** ：需提供图标 URL（如 `?icon=http://example.com/icon.svg`）。
+
+**示例** （集成 GitHub 图标）：
+
+```markdown
+
+![](https://img.shields.io/badge/-GitHub-black?icon=github)
+```
+生成效果：![GitHub-black?icon=github](https://img.shields.io/badge/-GitHub-black?icon=github)
