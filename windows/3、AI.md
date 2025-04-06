@@ -15,26 +15,30 @@
 - [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
 
 - [minimind](https://github.com/jingyaogong/minimind)
- ![stars](https://img.shields.io/github/stars/jingyaogong/minimind)
+ ![stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=flat)
 ## 大模型启动器
 
 - [awesome-llm-apps ](https://github.com/Shubhamsaboo/awesome-llm-apps)
-![stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps)
+![stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat)
 
   AI Agents 和 RAG LLM应用程序集合
 
 - [Ollama](https://github.com/ollama/ollama) 
-  ![stars](https://img.shields.io/github/stars/ollama/ollama)
+  ![stars](https://img.shields.io/github/stars/ollama/ollama?style=flat)
 
 - [open-webui](https://github.com/open-webui/open-webui)
-  ![stars](https://img.shields.io/github/stars/open-webui/open-webui)
+  ![stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat)
 
   前身ollama webui
 
 - [DeepClaude](https://github.com/ErlichLiu/DeepClaude)
-![stars](https://img.shields.io/github/stars/ErlichLiu/DeepClaude)
+![stars](https://img.shields.io/github/stars/ErlichLiu/DeepClaude?style=flat)
 
   复合模型使用
+
+- [u14app/deep-research](https://github.com/u14app/deep-research) ![Stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)
+
+![Release](https://img.shields.io/github/release-date/u14app/deep-research?style=flat) ![Version](https://img.shields.io/github/v/release/u14app/deep-research?style=flat)
 
 - [Page Assist ](https://chromewebstore.google.com/detail/page-assist-%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%9A%84-web/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
 
@@ -45,18 +49,18 @@
 
 
 - [AnythingLLM ](https://anythingllm.com/)
-    ![stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm)
+    ![stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat)
 
 
 - [ RAGFlow ](https://github.com/infiniflow/ragflow)
-![stars](https://img.shields.io/github/stars/infiniflow/ragflow)
+![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat)
 
 - FastGPT
 
 - Dify
 
 - [MaxKB](https://maxkb.cn/)
-![stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB)
+![stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat)
 
   部署要求：Ubuntu 22.04 / CentOS 7.6 64 位系统
 
@@ -64,12 +68,12 @@
 
 
 -  [LangBot](https://github.com/RockChinQ/LangBot)
-  ![stars](https://img.shields.io/github/stars/RockChinQ/LangBot)
+  ![stars](https://img.shields.io/github/stars/RockChinQ/LangBot?style=flat)
 
      😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人
 
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
-  ![stars](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration)
+  ![stars](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration?style=flat)
   
   DeepSeek 实用集成 · 官方仓库
 
@@ -83,7 +87,7 @@
 
 
 - [聊天机器人竞技场（以前的LMSTO）：免费的AI聊天比较和测试最好的AI聊天机器人 ](https://lmarena.ai/)
-![stars](https://img.shields.io/github/stars/lm-sys/FastChat)
+![stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat)
 
 - **AIGC**：生成式 AI（Artificial Intelligence Generated Content）
 
@@ -107,7 +111,7 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 
 - [**GPT-SoVITS**](https://github.com/RVC-Boss/GPT-SoVITS)
-  ![stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS)
+  ![stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=flat)
   [B站：花儿不哭](https://space.bilibili.com/5760446/upload/video)
   提供整合包
 
@@ -116,11 +120,11 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 
 - [**ChatTTS**](https://github.com/2noise/ChatTTS)
-![stars](https://img.shields.io/github/stars/2noise/ChatTTS)
+![stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=flat)
 [B站：DataMatters](https://space.bilibili.com/455643159/upload/video)
   命令行安装
   - 整合包：[ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
-![stars](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui)
+![stars](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui?style=flat)
 
      一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 
@@ -128,7 +132,7 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 
 - [**fish-speech**](https://github.com/fishaudio/fish-speech?tab=readme-ov-file)
-![stars](https://img.shields.io/github/stars/fishaudio/fish-speech)
+![stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=flat)
 [B站：冷月2333](https://space.bilibili.com/23195420)
 
   [fish-speech-gui](https://github.com/AnyaCoder/fish-speech-gui)
@@ -137,11 +141,11 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 
 - [Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
-![stars](https://img.shields.io/github/stars/SparkAudio/Spark-TTS)
+![stars](https://img.shields.io/github/stars/SparkAudio/Spark-TTS?style=flat)
 
 
 - [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice)
-  ![stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice)
+  ![stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=flat)
   阿里巴巴开发，命令行安装
   - 整合包：[【TTS】CosyVoice1+2 Win整合包，内置FastAPI Gradio WebUI，内置300M，0.5B模型【开源项目】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1obf5Y4E6L/)
 
@@ -149,13 +153,13 @@ One API 是一个 OpenAI 接口管理 & 分发系统，可以通过标准的 Ope
 
 
 - [**F5-TTS**](https://github.com/SWivid/F5-TTS)
-![stars](https://img.shields.io/github/stars/SWivid/F5-TTS)
+![stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=flat)
 
   由上海交通大学开源的一款高性能文本到语音（TTS）系统
   
 
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS)
-![stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS)
+![stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=flat)
 
   无安装方式
   - 整合包：[Ikaros-521/MeloTTS](https://github.com/Ikaros-521/MeloTTS)
