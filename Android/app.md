@@ -18,7 +18,9 @@ KHMD/空痕音乐下载器|官方QQ频道：XunHuanGeA1|也是个难得的无广
 LeapMusic|https://apkpure.com/cn/leapmusic/com.leapmusic.leapmusic|优雅的播放器。谷歌商店没上架，apkpure倒是有。搜了半天只有一个github pages的部署仓库，链接也没放，我自己组了网址打开，发现fork过来的说明内容都没删🤣，page部署成功就丢在那了。
 椒盐音乐|https://play.google.com/store/apps/details?id=com.salt.music|
 
+[斗图科技 - 音乐剪辑 - 简单实用 功能强大的音乐剪辑软件！](https://yinyuejianji.com/)
 
+[AbdurazaaqMohammed/AntiSplit-M:  APKs (APKS/XAPK/APKM) to  .APK ](https://github.com/AbdurazaaqMohammed/AntiSplit-M)
 ### 三方
 |名称|<div align = center> 来源 </div>|<div align = center> 说明 </div>|
 |:---:|:---|:---|
