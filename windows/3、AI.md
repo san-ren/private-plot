@@ -1,4 +1,23 @@
 
+## 基础名词
+
+
+
+- [聊天机器人竞技场（以前的LMSTO）：免费的AI聊天比较和测试最好的AI聊天机器人 ](https://lmarena.ai/)
+![stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat)
+
+- **AIGC**：生成式 AI（Artificial Intelligence Generated Content）
+
+- **RAG**：检索增强生成（Retrieval Augmented Generation）
+
+- **LLM**：大语言模型（Large Language Model ）
+
+
+| 名词 | 全文 | 说明 |
+------|:------:|:------:|
+| [MCP](https://modelcontextprotocol.io/introduction)|Model Context Protocol|模型上下文协议，定义了应用程序和 AI 模型之间交换上下文信息的方式
+[A2A](https://github.com/google/A2A)| Agent2Agent protocol|用于 Agent-Agent 协作
+
 
 ## 大模型下载
 
@@ -49,20 +68,7 @@
 
 
 
-## AI相关
 
-
-
-- [聊天机器人竞技场（以前的LMSTO）：免费的AI聊天比较和测试最好的AI聊天机器人 ](https://lmarena.ai/)
-![stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat)
-
-- **AIGC**：生成式 AI（Artificial Intelligence Generated Content）
-
-- **RAG**：检索增强生成（Retrieval Augmented Generation）
-
-- **LLM**：大语言模型（Large Language Model ）
-
--
 
 
 
