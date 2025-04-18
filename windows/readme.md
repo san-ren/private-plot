@@ -3,12 +3,12 @@
 
 - [Sub: 自用clash订阅链接](https://github.com/anaer/Sub)
 ![stars](https://img.shields.io/github/stars/anaer/Sub)
-
-
+- [科学上网 - 我们好了！](https://weoknow.com/index.php/article/c11.html)
+- [Home | 免费高速节点推荐](https://freenode.openrunner.net/)
 
 - [get_subscribe: ✈️ 白嫖免费机场 / 免费VPN ](https://github.com/ermaozi/get_subscribe)
 ![stars](https://img.shields.io/github/stars/ermaozi/get_subscribe)
-
+- [科技_Web3 - YouTube](https://www.youtube.com/@Andy_Web3/videos)
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 ![stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev)
 
