@@ -3,28 +3,28 @@
 > 毕竟即使详细说明，最终也是要安装使用后才知道喜不喜欢
 
 ### 元数据
-| 项目 | 功能 | 详细 |
+| 项目 | 功能 | 备注 |
 |------|------|------|
 [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase&hl=zh)|   内购VIP   |    中文界面，功能详尽
-[imdb ](https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=zh)|[IMDb](https://www.imdb.com/) 官方 app <br> 简中界面、中文搜索| 国内网络加载缓慢<br>榜单不能添加影片？？？？
-[IMDbPro ](https://play.google.com/store/apps/details?id=com.imdb.pro.mobile.android&hl=zh)| [IMDb](https://www.imdb.com/) 官方 app|订阅 IMDbPro
-[TMDb](https://play.google.com/store/apps/details?id=com.irfangujjar.tmdb)|[TMDB](https://www.themoviedb.org/)官方 app<br>有广告| 界面不支持中文，支持中文搜索<br>不能添加多个列表，无设置界面
-[TMDb - Movie Database TvShow ](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|  TMDB三方<br>使用 TMDB  API         |  不支持中文，搜索详尽无广告
+[imdb ](https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=zh)| <br> 简中界面、中文搜索| [IMDb](https://www.imdb.com/) 官方 app<br> 国内网络加载缓慢<br>榜单不能添加影片？？？？
+[IMDbPro ](https://play.google.com/store/apps/details?id=com.imdb.pro.mobile.android&hl=zh)| 需要订阅 IMDbPro|[IMDb](https://www.imdb.com/) 官方 app
+[TMDb](https://play.google.com/store/apps/details?id=com.irfangujjar.tmdb)|英文界面，单一列表，有全屏广告<br>支持中文搜索，但不返回中文数据| [TMDB](https://www.themoviedb.org/)官方 app
 [trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)|[trakt.tv](https://trakt.tv/)官方 app<br>内购VIP|记录数据，详细统计<br>开放 API 给三方，[适用于所有设备的应用程序 - Trakt](https://trakt.tv/apps)
 [TV Time - 跟踪节目和电影 ](https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=zh)|          |    
-[Simkl Lists: TV, Anime, Movies](https://play.google.com/store/apps/details?id=com.simkl.lists&hl=zh)   |                   |    
-[TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)| [TMDb-Android](https://github.com/M1Lr05/TMDb-Android)  |   获取中文元数据
-[TMDB-APP ](https://play.google.com/store/apps/details?id=com.riverpod.go.river)|              |
-[Cinemaniac ](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch)|  内购VIP    |   多列表
-[MovieMania: The Movie Tracker ](https://play.google.com/store/apps/details?id=sk.dowla.moviemania)|  有广告 |无中文， 详尽的分类搜索，无列表功能
-[Movie-Mania (Powered by TMDb) ](https://play.google.com/store/apps/details?id=com.hijack.moviemania)|      |   无中文， 详尽的分类搜索，无列表功能
-[MovieMania ](https://play.google.com/store/apps/details?id=com.hadyawny.moviemania)|       |       无中文，搜索、单一列表
-[MovieMania 2 ](https://play.google.com/store/apps/details?id=com.cineapex.cinecast)  |    | 无中文，搜索、单一列表
-[ScenePeek - TMDB & Jellyseerr ](https://play.google.com/store/apps/details?id=com.divinelink.scenepeek)|  [scenepeek-android](https://github.com/Divinelink/scenepeek-android)| 获取TMDB数据
-[ Movies ](https://play.google.com/store/apps/details?id=com.rafay.moviesflutter)| TMDB三方  |   只有简单的搜索和推荐界面<br>获取TMDB数据
-[TMDb - Movie Database TvShow](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|   |  界面简单
+[Cinemaniac ](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch)|  内购VIP，中文界面，多列表    |   
+[TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)| 搜索、分类推荐、获取中文元数据 |   [TMDb-GitHub](https://github.com/M1Lr05/TMDb-Android) 
+[TMDB-APP ](https://play.google.com/store/apps/details?id=com.riverpod.go.river)|    搜索、分类推荐、无列表  |
+[TMDb - Movie Database TvShow ](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|  搜索、分类推荐、单一列表，英文界面        |  TMDB三方
+[Simkl Lists: TV, Anime, Movies](https://play.google.com/store/apps/details?id=com.simkl.lists&hl=zh)   |  搜索、推荐、有限的列表 |    英文界面，上下翻飞的弹出菜单
+[MovieMania: The Movie Tracker ](https://play.google.com/store/apps/details?id=sk.dowla.moviemania)|  详尽的分类搜索，无列表功能 |无中文，有广告
+[Movie-Mania (Powered by TMDb) ](https://play.google.com/store/apps/details?id=com.hijack.moviemania)|   详尽的分类搜索，无列表功能   | 无中文
+[MovieMania ](https://play.google.com/store/apps/details?id=com.hadyawny.moviemania)|    搜索、单一列表   |  无中文
+[MovieMania 2 ](https://play.google.com/store/apps/details?id=com.cineapex.cinecast)  |  搜索、单一列表  | 无中文
+[ScenePeek - TMDB & Jellyseerr ](https://play.google.com/store/apps/details?id=com.divinelink.scenepeek)| TMDB三方，获取TMDB账号数据 | [scenepeek-android](https://github.com/Divinelink/scenepeek-android)
+[ Movies ](https://play.google.com/store/apps/details?id=com.rafay.moviesflutter)| TMDB三方，获取TMDB账号数据  |   只有简单的搜索和推荐界面
+[TMDb - Movie Database TvShow](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)| 搜索和推荐  |  界面简单
 [Movie Mania ](https://play.google.com/store/apps/details?id=tv.mycast.moviemania)|       |   英文界面，在线看
-
+[Movies Index](https://play.google.com/store/apps/details?id=com.sg.moviesindex&hl=zh)| 搜索和推荐，无列表功能 |  
 
 
 
