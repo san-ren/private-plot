@@ -1,10 +1,9 @@
 ## 安卓app陈列
-> 此处是第n次陈列软件了，就不说明具体情况了，只写一些体会。
-> 毕竟即使详细说明，最终也是要安装使用后才知道喜不喜欢
 
 ### 元数据
 | 项目 | 功能 | 备注 |
 |------|------|------|
+[Movie Mania ](https://play.google.com/store/apps/details?id=tv.mycast.moviemania)|   英文界面，在线看    |   号称“终极流媒体应用程序”
 [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase&hl=zh)|   内购VIP   |    中文界面，功能详尽
 [imdb ](https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=zh)| <br> 简中界面、中文搜索| [IMDb](https://www.imdb.com/) 官方 app<br> 国内网络加载缓慢<br>榜单不能添加影片？？？？
 [IMDbPro ](https://play.google.com/store/apps/details?id=com.imdb.pro.mobile.android&hl=zh)| 需要订阅 IMDbPro|[IMDb](https://www.imdb.com/) 官方 app
@@ -13,34 +12,39 @@
 [TV Time - 跟踪节目和电影 ](https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=zh)|          |    
 [Cinemaniac ](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch)|  内购VIP，中文界面，多列表    |   
 [TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)| 搜索、分类推荐、获取中文元数据 |   [TMDb-GitHub](https://github.com/M1Lr05/TMDb-Android) 
+[Movie Collector](https://play.google.com/store/apps/details?id=com.watchlist.moviecollector)|    英文、搜索、推荐、无列表  |   界面简洁
+[Movie Match ](https://play.google.com/store/apps/details?id=io.moku.moviematch&hl=zh)|   卡片式推荐、无列表|   如其名，根据用户选择匹配数据（影视作品和其它用户）
 [TMDB-APP ](https://play.google.com/store/apps/details?id=com.riverpod.go.river)|    搜索、分类推荐、无列表  |
+[Mymovies ](https://play.google.com/store/apps/details?id=com.appspring.seenit)|    搜索、分类推荐、无列表  |
 [TMDb - Movie Database TvShow ](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|  搜索、分类推荐、单一列表，英文界面        |  TMDB三方
 [Simkl Lists: TV, Anime, Movies](https://play.google.com/store/apps/details?id=com.simkl.lists&hl=zh)   |  搜索、推荐、有限的列表 |    英文界面，上下翻飞的弹出菜单
-[MovieMania: The Movie Tracker ](https://play.google.com/store/apps/details?id=sk.dowla.moviemania)|  详尽的分类搜索，无列表功能 |无中文，有广告
-[Movie-Mania (Powered by TMDb) ](https://play.google.com/store/apps/details?id=com.hijack.moviemania)|   详尽的分类搜索，无列表功能   | 无中文
+[MovieMania: The Movie Tracker ](https://play.google.com/store/apps/details?id=sk.dowla.moviemania)|  详尽的分类搜索，无列表 |无中文，有广告
+[Movie-Mania (Powered by TMDb) ](https://play.google.com/store/apps/details?id=com.hijack.moviemania)|   详尽的分类搜索，无列表  | 无中文
+[MyMovie ](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie)|    搜索、单一列表   |  无中文，界面优美
 [MovieMania ](https://play.google.com/store/apps/details?id=com.hadyawny.moviemania)|    搜索、单一列表   |  无中文
 [MovieMania 2 ](https://play.google.com/store/apps/details?id=com.cineapex.cinecast)  |  搜索、单一列表  | 无中文
 [ScenePeek - TMDB & Jellyseerr ](https://play.google.com/store/apps/details?id=com.divinelink.scenepeek)| TMDB三方，获取TMDB账号数据 | [scenepeek-android](https://github.com/Divinelink/scenepeek-android)
 [ Movies ](https://play.google.com/store/apps/details?id=com.rafay.moviesflutter)| TMDB三方，获取TMDB账号数据  |   只有简单的搜索和推荐界面
 [TMDb - Movie Database TvShow](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)| 搜索和推荐  |  界面简单
-[Movie Mania ](https://play.google.com/store/apps/details?id=tv.mycast.moviemania)|       |   英文界面，在线看
 [Movies Index](https://play.google.com/store/apps/details?id=com.sg.moviesindex&hl=zh)| 搜索和推荐，无列表功能 |  
+[My Movies by Blu-ray.com](https://play.google.com/store/apps/details?id=com.bluray.android.mymovies)|    |  [Blu-ray](https://www.blu-ray.com/)官方app
 
 
 
 
 
+### 收藏类
 
-
-
-
-
-
-
+| 项目 | 功能 | 备注 |
+|------|------|------|
+[My Collections: Collect & Show](https://play.google.com/store/apps/details?id=com.tuyware.mycollections)|  收藏各种物品 | 
+[MyCollections ](https://play.google.com/store/apps/details?id=com.altova.mycollections)|  收藏各种物品 | 
+[Collector ](https://play.google.com/store/apps/details?id=an.osintsev.collector)| 自建收藏品、添加图片描述等各种细节<br>有广告、内购full version|  看起来像是收藏硬币的
+[My Collections ](https://play.google.com/store/apps/details?id=com.softwyer.collections.flutter)| 收藏硬币| 
+[Bookshelf-Your virtual library ](https://play.google.com/store/apps/details?id=com.bookshelf.prod)| 收藏纸质书、管理书籍、不能阅读、支持中文|
 
 ### 音乐
 
-> 先从音乐开始吧，其实很多老牌播放器都很优秀，比如AIMP、海贝音乐一类，但不免显得中庸，还是新近诞生的更符合最新的审美
 
 |名称|<div align = center> 来源 </div>|<div align = center> 说明 </div>|
 |:---:|:---|:---|
