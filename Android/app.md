@@ -4,29 +4,33 @@
 | 项目 | 功能 | 备注 |
 |------|------|------|
 [Movie Mania ](https://play.google.com/store/apps/details?id=tv.mycast.moviemania)|   英文界面，在线看    |   号称“终极流媒体应用程序”
-[Moviebase](https://play.google.com/store/apps/details?id=com.moviebase&hl=zh)|   内购VIP   |    中文界面，功能详尽
-[imdb ](https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=zh)| <br> 简中界面、中文搜索| [IMDb](https://www.imdb.com/) 官方 app<br> 国内网络加载缓慢<br>榜单不能添加影片？？？？
+[Moviebase](https://play.google.com/store/apps/details?id=com.moviebase&hl=zh)|   完美支持中文，内购VIP   |    功能详尽
+[imdb ](https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=zh)| 简中界面、中文搜索、英文数据| [IMDb](https://www.imdb.com/) 官方 app<br> 国内网络加载缓慢
 [IMDbPro ](https://play.google.com/store/apps/details?id=com.imdb.pro.mobile.android&hl=zh)| 需要订阅 IMDbPro|[IMDb](https://www.imdb.com/) 官方 app
 [TMDb](https://play.google.com/store/apps/details?id=com.irfangujjar.tmdb)|英文界面，单一列表，有全屏广告<br>支持中文搜索，但不返回中文数据| [TMDB](https://www.themoviedb.org/)官方 app
-[trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)|[trakt.tv](https://trakt.tv/)官方 app<br>内购VIP|记录数据，详细统计<br>开放 API 给三方，[适用于所有设备的应用程序 - Trakt](https://trakt.tv/apps)
-[TV Time - 跟踪节目和电影 ](https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=zh)|          |    
+[TMDB - Movies & TV Shows](https://play.google.com/store/apps/details?id=com.fr0zen.tmdb) |  纯英文、列表自由   |  无广告， 界面优美<br>可以自定义api获取数据的语言但不支持中文
 [Cinemaniac ](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch)|  内购VIP，中文界面，多列表    |   
-[TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)| 搜索、分类推荐、获取中文元数据 |   [TMDb-GitHub](https://github.com/M1Lr05/TMDb-Android) 
+[TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)| 搜索、分类推荐、获取中文元数据<br>无列表 |   [TMDb-GitHub](https://github.com/M1Lr05/TMDb-Android) 开源无广告
+[Watchlist ](https://play.google.com/store/apps/details?id=com.application.watchlist)  |   纯英文、多列表   |   界面优美 
+[Watch List: TV Series & Movies ](https://play.google.com/store/apps/details?id=com.sylv42240.watch_list)    |   纯英文、有限列表   |   界面优美 
+[trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)|VIP享受无限列表|记录数据，详细统计<br>[trakt.tv](https://trakt.tv/)官方 app<br>开放 API 给三方，[适用于所有设备的应用程序 - Trakt](https://trakt.tv/apps)
+[TV Time  ](https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=zh)|    英文界面、列表自由     |    元数据中英文混杂，真奇葩 
+[My Movies 5 - Movie & TV List ](https://play.google.com/store/apps/details?id=dk.mymovies.mymovies4forandroidfree)| 支持中文<br>侧重于收藏物理媒体（DVD、碟片）|    在线搜索层级过深，搜索服务体验较差，怀疑是应用方自建数据库。
+[TMDb - Movie Database TvShow ](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|  搜索、分类推荐、单一列表，英文界面        |  TMDB三方
+[ScenePeek - TMDB & Jellyseerr ](https://play.google.com/store/apps/details?id=com.divinelink.scenepeek)| 获取TMDB账号数据 | [scenepeek-github](https://github.com/Divinelink/scenepeek-android)TMDB三方
+[ Movies ](https://play.google.com/store/apps/details?id=com.rafay.moviesflutter)| 搜索、推荐、无列表  |  TMDB三方，获取TMDB账号数据
+[MyMovie ](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie)|    搜索、推荐、单一列表   |  无中文，界面优美
+[MovieMania ](https://play.google.com/store/apps/details?id=com.hadyawny.moviemania)|    搜索、推荐、单一列表   |  无中文
+[MovieMania 2 ](https://play.google.com/store/apps/details?id=com.cineapex.cinecast)  |  搜索、推荐、单一列表  | 无中文
 [Movie Collector](https://play.google.com/store/apps/details?id=com.watchlist.moviecollector)|    英文、搜索、推荐、无列表  |   界面简洁
 [Movie Match ](https://play.google.com/store/apps/details?id=io.moku.moviematch&hl=zh)|   卡片式推荐、无列表|   如其名，根据用户选择匹配数据（影视作品和其它用户）
-[TMDB-APP ](https://play.google.com/store/apps/details?id=com.riverpod.go.river)|    搜索、分类推荐、无列表  |
-[Mymovies ](https://play.google.com/store/apps/details?id=com.appspring.seenit)|    搜索、分类推荐、无列表  |
-[TMDb - Movie Database TvShow ](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|  搜索、分类推荐、单一列表，英文界面        |  TMDB三方
+[Movies Index](https://play.google.com/store/apps/details?id=com.sg.moviesindex&hl=zh)| 搜索、推荐、无列表 |  纯英文
+[TMDB-APP ](https://play.google.com/store/apps/details?id=com.riverpod.go.river)|    搜索、分类推荐、无列表  |纯英文
+[seenit](https://play.google.com/store/apps/details?id=com.appspring.seenit)|    搜索、分类推荐、无列表  |纯英文
 [Simkl Lists: TV, Anime, Movies](https://play.google.com/store/apps/details?id=com.simkl.lists&hl=zh)   |  搜索、推荐、有限的列表 |    英文界面，上下翻飞的弹出菜单
 [MovieMania: The Movie Tracker ](https://play.google.com/store/apps/details?id=sk.dowla.moviemania)|  详尽的分类搜索，无列表 |无中文，有广告
 [Movie-Mania (Powered by TMDb) ](https://play.google.com/store/apps/details?id=com.hijack.moviemania)|   详尽的分类搜索，无列表  | 无中文
-[MyMovie ](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie)|    搜索、单一列表   |  无中文，界面优美
-[MovieMania ](https://play.google.com/store/apps/details?id=com.hadyawny.moviemania)|    搜索、单一列表   |  无中文
-[MovieMania 2 ](https://play.google.com/store/apps/details?id=com.cineapex.cinecast)  |  搜索、单一列表  | 无中文
-[ScenePeek - TMDB & Jellyseerr ](https://play.google.com/store/apps/details?id=com.divinelink.scenepeek)| TMDB三方，获取TMDB账号数据 | [scenepeek-android](https://github.com/Divinelink/scenepeek-android)
-[ Movies ](https://play.google.com/store/apps/details?id=com.rafay.moviesflutter)| TMDB三方，获取TMDB账号数据  |   只有简单的搜索和推荐界面
 [TMDb - Movie Database TvShow](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)| 搜索和推荐  |  界面简单
-[Movies Index](https://play.google.com/store/apps/details?id=com.sg.moviesindex&hl=zh)| 搜索和推荐，无列表功能 |  
 [My Movies by Blu-ray.com](https://play.google.com/store/apps/details?id=com.bluray.android.mymovies)|    |  [Blu-ray](https://www.blu-ray.com/)官方app
 
 
