@@ -13,6 +13,7 @@
 [TMDb](https://play.google.com/store/apps/details?id=com.irfangujjar.tmdb)|英文界面，单一列表，有全屏广告<br>支持中文搜索，但不返回中文数据| [TMDB](https://www.themoviedb.org/)官方 app
 [Cinemaniac ](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch)|  非pro用户不能多列表    |   GUI框架落后， 支持中文界面和中文数据
 [TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)|  [![Stars](https://img.shields.io/github/stars/M1Lr05/TMDb-Android?style=flat)](https://github.com/M1Lr05/TMDb-Android/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/M1Lr05/TMDb-Android/master?label=Last%20Commit&style=flat)](https://github.com/M1Lr05/TMDb-Android/commits/master)<br>[![Language](https://img.shields.io/github/languages/top/M1Lr05/TMDb-Android?style=flat)](https://github.com/M1Lr05/TMDb-Android/search?l=Kotlin)  |   搜索、分类推荐、中文元数据<br>无列表
+[Serializd - Google Play 上的应用](https://play.google.com/store/apps/details?id=com.serializdmobile) |   纯英文、多列表   |  
 [Watchlist ](https://play.google.com/store/apps/details?id=com.application.watchlist)  |   纯英文、多列表   |   界面优美 
 [Watch List: TV Series & Movies ](https://play.google.com/store/apps/details?id=com.sylv42240.watch_list)    |   纯英文、有限列表   |   界面优美 
 [trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)|VIP享受无限列表|记录数据，详细统计<br>[trakt.tv](https://trakt.tv/)官方 app<br>开放 API 给三方，[适用于所有设备的应用程序 - Trakt](https://trakt.tv/apps)
@@ -20,6 +21,7 @@
 [My Movies 5 - Movie & TV List ](https://play.google.com/store/apps/details?id=dk.mymovies.mymovies4forandroidfree)| 支持中文<br>侧重于收藏物理媒体（DVD、碟片）|    在线搜索层级过深，搜索服务体验较差，怀疑是自建数据库。
 [TMDb - Movie Database TvShow ](https://play.google.com/store/apps/details?id=com.anch.tmdb_anch_movies_database)|  搜索、分类推荐、单一列表，英文界面        |  TMDB三方
 [ScenePeek - TMDB & Jellyseerr ](https://play.google.com/store/apps/details?id=com.divinelink.scenepeek)| [![Stars](https://img.shields.io/github/stars/Divinelink/scenepeek-android?style=flat)](https://github.com/Divinelink/scenepeek-android/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/Divinelink/scenepeek-android?label=Version&sort=semver&style=flat)](https://github.com/Divinelink/scenepeek-android/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/Divinelink/scenepeek-android?label=Latest%20Release&style=flat)](https://github.com/Divinelink/scenepeek-android/releases)<br>[![Language](https://img.shields.io/github/languages/top/Divinelink/scenepeek-android?style=flat)](https://github.com/Divinelink/scenepeek-android/search?l=Kotlin) | 获取TMDB账号数据，TMDB三方
+[Letterboxd ](https://play.google.com/store/apps/details?id=com.letterboxd.letterboxd)| 搜索、推荐、无列表  |  纯英文
 [ Movies ](https://play.google.com/store/apps/details?id=com.rafay.moviesflutter)| 搜索、推荐、无列表  |  TMDB三方，获取TMDB账号数据
 [MyMovie ](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie)|    搜索、推荐、单一列表   |  无中文，界面优美
 [MovieMania ](https://play.google.com/store/apps/details?id=com.hadyawny.moviemania)|    搜索、推荐、单一列表   |  无中文
