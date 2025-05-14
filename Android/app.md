@@ -13,9 +13,9 @@
 [TMDb](https://play.google.com/store/apps/details?id=com.irfangujjar.tmdb)|英文界面，单一列表，有全屏广告<br>支持中文搜索，但不返回中文数据| [TMDB](https://www.themoviedb.org/)官方 app
 [Cinemaniac ](https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch)|  非pro用户不能多列表    |   GUI框架落后， 支持中文界面和中文数据
 [TMDb - Guía de películas y pro](https://play.google.com/store/apps/details?id=com.github.midros.tmdb)|  [![Stars](https://img.shields.io/github/stars/M1Lr05/TMDb-Android?style=flat)](https://github.com/M1Lr05/TMDb-Android/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/M1Lr05/TMDb-Android/master?label=Last%20Commit&style=flat)](https://github.com/M1Lr05/TMDb-Android/commits/master)<br>[![Language](https://img.shields.io/github/languages/top/M1Lr05/TMDb-Android?style=flat)](https://github.com/M1Lr05/TMDb-Android/search?l=Kotlin)  |   搜索、分类推荐、中文元数据<br>无列表
-[Serializd - Google Play 上的应用](https://play.google.com/store/apps/details?id=com.serializdmobile) |   纯英文、多列表   |  
-[Watchlist ](https://play.google.com/store/apps/details?id=com.application.watchlist)  |   纯英文、多列表   |   界面优美 
-[Watch List: TV Series & Movies ](https://play.google.com/store/apps/details?id=com.sylv42240.watch_list)    |   纯英文、有限列表   |   界面优美 
+[Serializd](https://play.google.com/store/apps/details?id=com.serializdmobile) |   纯英文、多列表   |  
+[Watchlist ](https://play.google.com/store/apps/details?id=com.application.watchlist)  |   纯英文、电影剧集分开的多列表   |   界面优美 
+[Watch List: TV Series & Movies ](https://play.google.com/store/apps/details?id=com.sylv42240.watch_list)    |   纯英文、电影剧集分开的列表   |   界面优美 
 [trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)|VIP享受无限列表|记录数据，详细统计<br>[trakt.tv](https://trakt.tv/)官方 app<br>开放 API 给三方，[适用于所有设备的应用程序 - Trakt](https://trakt.tv/apps)
 [TV Time  ](https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=zh)|    英文界面、列表自由     |    元数据中英文混杂，真奇葩 
 [My Movies 5 - Movie & TV List ](https://play.google.com/store/apps/details?id=dk.mymovies.mymovies4forandroidfree)| 支持中文<br>侧重于收藏物理媒体（DVD、碟片）|    在线搜索层级过深，搜索服务体验较差，怀疑是自建数据库。
