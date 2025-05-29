@@ -4,8 +4,8 @@
 | 项目 | 功能 | 备注 |
 |------|------|------|
 [Movie Mania ](https://play.google.com/store/apps/details?id=tv.mycast.moviemania)|   英文界面，在线看    |   号称“终极流媒体应用程序”
-[Moviebase](https://play.google.com/store/apps/details?id=com.moviebase&hl=zh)|   支持三个账号体系：Moviebase、Trakt和TMDB<br>完美支持中文，内购VIP   |    功能详尽
-[cinexplore ](https://play.google.com/store/search?q=cinexplore&c=apps)| 内购会员<br>完美支持中文，列表自由，可备份|[trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)三方，使用trakt.TV 账号数据
+[Moviebase](https://play.google.com/store/apps/details?id=com.moviebase&hl=zh)|   Trakt三方<br>完美支持中文，内购VIP   |    列表导出csv，数据备份<br>功能详尽（早期支持三个账号体系：Moviebase、Trakt和TMDB）
+[cinexplore ](https://play.google.com/store/search?q=cinexplore&c=apps)| [trakt.TV ](https://play.google.com/store/apps/details?id=tv.trakt.trakt)三方，使用trakt.TV 账号数据,内购会员<br>完美支持中文，列表自由，可备份|  找到的破解版都不能同步
 [TMDB - Movies & TV Shows](https://play.google.com/store/apps/details?id=com.fr0zen.tmdb) |  英文界面、中文元数据（`Mandarin（普通话）`）、列表自由   |  只有小的横幅广告，且可以用[Lucky Patcher ](https://www.luckypatchers.com/)去除<br>**最好的TMDB三方**，使用TMDB账号数据，不能收藏演员
 | [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | [![Stars](https://img.shields.io/github/stars/UweTrottmann/SeriesGuide?style=flat)](https://github.com/UweTrottmann/SeriesGuide/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/UweTrottmann/SeriesGuide?label=Version&style=flat)](https://github.com/UweTrottmann/SeriesGuide/releases)<br>[![Latest Release](https://img.shields.io/github/release-date/UweTrottmann/SeriesGuide?label=Latest+Release&style=flat)](https://github.com/UweTrottmann/SeriesGuide/releases)<br>[![Language](https://img.shields.io/github/languages/top/UweTrottmann/SeriesGuide?style=flat)](https://github.com/UweTrottmann/SeriesGuide/search?l=Kotlin) |  完美支持中文，仅针对云备份服务收费。<br>电影不能添加到自由列表中，支持导出备份 <br>收藏逻辑繁复（添加到自由列表需要先添加才能加入列表） |
 [imdb ](https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=zh)| 简中界面、中文搜索、英文数据| [IMDb](https://www.imdb.com/) 官方 app<br> 国内网络加载缓慢
