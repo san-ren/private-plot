@@ -14,37 +14,17 @@
 
 ## 全局
 
-- **LL-plugin-list-viewer**：插件列表 查看·安装·更新
-  
-  https://github.com/ltxhhz/LL-plugin-list-viewer/tree/main
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [LL-plugin-list-viewer](https://github.com/ltxhhz/LL-plugin-list-viewer) | [![Stars](https://img.shields.io/github/stars/ltxhhz/LL-plugin-list-viewer?style=flat)](https://github.com/ltxhhz/LL-plugin-list-viewer/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/ltxhhz/LL-plugin-list-viewer?label=Version&sort=semver&style=flat)](https://github.com/ltxhhz/LL-plugin-list-viewer/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/ltxhhz/LL-plugin-list-viewer?label=Latest%20Release&style=flat)](https://github.com/ltxhhz/LL-plugin-list-viewer/releases)<br>[![Language](https://img.shields.io/github/languages/top/ltxhhz/LL-plugin-list-viewer?style=flat)](https://github.com/ltxhhz/LL-plugin-list-viewer/search?l=TypeScript) | 插件列表 查看·安装·更新 |
+| [PluginInstaller](https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller) | [![Stars](https://img.shields.io/github/stars/xinyihl/LiteLoaderQQNT-PluginInstaller?style=flat)](https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xinyihl/LiteLoaderQQNT-PluginInstaller?label=Version&sort=semver&style=flat)](https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xinyihl/LiteLoaderQQNT-PluginInstaller?label=Latest%20Release&style=flat)](https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller/releases)<br>[![Language](https://img.shields.io/github/languages/top/xinyihl/LiteLoaderQQNT-PluginInstaller?style=flat)](https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller/search?l=JavaScript) | 插件安装器 |
+| [lite_tools](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools) | [![Stars](https://img.shields.io/github/stars/xiyuesaves/LiteLoaderQQNT-lite_tools?style=flat)](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xiyuesaves/LiteLoaderQQNT-lite_tools?label=Version&sort=semver&style=flat)](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xiyuesaves/LiteLoaderQQNT-lite_tools?label=Latest%20Release&style=flat)](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/releases)<br>[![Language](https://img.shields.io/github/languages/top/xiyuesaves/LiteLoaderQQNT-lite_tools?style=flat)](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/search?l=JavaScript) | 轻量工具箱 |
+| [transitio](https://github.com/PRO-2684/transitio) | [![Stars](https://img.shields.io/github/stars/PRO-2684/transitio?style=flat)](https://github.com/PRO-2684/transitio/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/PRO-2684/transitio?label=Version&sort=semver&style=flat)](https://github.com/PRO-2684/transitio/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/PRO-2684/transitio?label=Latest%20Release&style=flat)](https://github.com/PRO-2684/transitio/releases)<br>[![Language](https://img.shields.io/github/languages/top/PRO-2684/transitio?style=flat)](https://github.com/PRO-2684/transitio/search?l=JavaScript) | 加载任意用户样式 |
+| [Scriptio](https://github.com/PRO-2684/Scriptio) | [![Stars](https://img.shields.io/github/stars/PRO-2684/Scriptio?style=flat)](https://github.com/PRO-2684/Scriptio/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/PRO-2684/Scriptio?label=Version&sort=semver&style=flat)](https://github.com/PRO-2684/Scriptio/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/PRO-2684/Scriptio?label=Latest%20Release&style=flat)](https://github.com/PRO-2684/Scriptio/releases)<br>[![Language](https://img.shields.io/github/languages/top/PRO-2684/Scriptio?style=flat)](https://github.com/PRO-2684/Scriptio/search?l=JavaScript) |  加载任意渲染层的 JavaScript 片段|
+| [Custom-CSS](https://github.com/xh321/LiteLoaderQQNT-Custom-CSS) | [![Stars](https://img.shields.io/github/stars/xh321/LiteLoaderQQNT-Custom-CSS?style=flat)](https://github.com/xh321/LiteLoaderQQNT-Custom-CSS/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xh321/LiteLoaderQQNT-Custom-CSS?label=Version&sort=semver&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Custom-CSS/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xh321/LiteLoaderQQNT-Custom-CSS?label=Latest%20Release&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Custom-CSS/releases)<br>[![Language](https://img.shields.io/github/languages/top/xh321/LiteLoaderQQNT-Custom-CSS?style=flat)](https://github.com/xh321/LiteLoaderQQNT-Custom-CSS/search?l=JavaScript) | 加载任意CSS |
+| [Kill-Update](https://github.com/xh321/LiteLoaderQQNT-Kill-Update) | [![Stars](https://img.shields.io/github/stars/xh321/LiteLoaderQQNT-Kill-Update?style=flat)](https://github.com/xh321/LiteLoaderQQNT-Kill-Update/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xh321/LiteLoaderQQNT-Kill-Update?label=Version&sort=semver&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Kill-Update/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xh321/LiteLoaderQQNT-Kill-Update?label=Latest%20Release&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Kill-Update/releases)<br>[![Language](https://img.shields.io/github/languages/top/xh321/LiteLoaderQQNT-Kill-Update?style=flat)](https://github.com/xh321/LiteLoaderQQNT-Kill-Update/search?l=JavaScript) | 关闭自动更新弹窗 |
+| [QQCleaner](https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner) | [![Stars](https://img.shields.io/github/stars/MisaLiu/LiteLoaderQQNT-QQCleaner?style=flat)](https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/MisaLiu/LiteLoaderQQNT-QQCleaner?label=Version&sort=semver&style=flat)](https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/MisaLiu/LiteLoaderQQNT-QQCleaner?label=Latest%20Release&style=flat)](https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner/releases)<br>[![Language](https://img.shields.io/github/languages/top/MisaLiu/LiteLoaderQQNT-QQCleaner?style=flat)](https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner/search?l=TypeScript) |缓存清理插件  |
 
-- **PluginInstaller**:  插件安装器
-
-  https://github.com/xinyihl/LiteLoaderQQNT-PluginInstaller
-
-- **lite_tools**:  轻量工具箱 —— 轻量 · 优雅 · 高效
-    
-  https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools
-
-- **transitio**: 加载任意用户样式
-
-  https://github.com/PRO-2684/transitio
-
-- **Scriptio**: 加载任意渲染层的 JavaScript 片段
-
-  https://github.com/PRO-2684/Scriptio
-
-- **LiteLoaderQQNT-Custom-CSS**：加载任意CSS
-
-  https://github.com/xh321/LiteLoaderQQNT-Custom-CSS
-  
-- **Kill-Update**:  关闭自动更新弹窗
-  
-  https://github.com/xh321/LiteLoaderQQNT-Kill-Update
-
-- **QQCleaner**:  缓存清理插件
-  
-  https://github.com/MisaLiu/LiteLoaderQQNT-QQCleaner
 
 ## 消息本身
 
