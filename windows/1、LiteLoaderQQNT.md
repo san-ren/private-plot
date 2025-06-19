@@ -28,73 +28,30 @@
 
 ## 消息本身
 
-- **qqMessageBlocker**: 一个基于QQNT的QQ信息消息屏蔽插件，支持按关键字和用户名屏蔽文字，屏蔽emoji表情，屏蔽图片表情包，屏蔽群机器人，屏蔽超级表情。
 
-  https://github.com/elegantland/qqMessageBlocker
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [qqMessageBlocker](https://github.com/elegantland/qqMessageBlocker) | [![Stars](https://img.shields.io/github/stars/elegantland/qqMessageBlocker?style=flat)](https://github.com/elegantland/qqMessageBlocker/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/elegantland/qqMessageBlocker?label=Version&sort=semver&style=flat)](https://github.com/elegantland/qqMessageBlocker/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/elegantland/qqMessageBlocker?label=Latest%20Release&style=flat)](https://github.com/elegantland/qqMessageBlocker/releases) | QQ信息消息屏蔽插件，支持按关键字和用户名屏蔽文字，屏蔽emoji表情，屏蔽图片表情包，屏蔽群机器人，屏蔽超级表情。 |
+| [Stick-Emoji](https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji) | [![Stars](https://img.shields.io/github/stars/WJZ-P/LiteLoaderQQNT-Stick-Emoji?style=flat)](https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/WJZ-P/LiteLoaderQQNT-Stick-Emoji?label=Version&sort=semver&style=flat)](https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/WJZ-P/LiteLoaderQQNT-Stick-Emoji?label=Latest%20Release&style=flat)](https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji/releases) |  自动给消息贴上emoji！(๑˃ᴗ˂)ﻭ|
+| [Remove-Custom-Bubbles](https://github.com/pasical/Remove-Custom-Bubbles) | [![Stars](https://img.shields.io/github/stars/pasical/Remove-Custom-Bubbles?style=flat)](https://github.com/pasical/Remove-Custom-Bubbles/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/pasical/Remove-Custom-Bubbles?label=Version&sort=semver&style=flat)](https://github.com/pasical/Remove-Custom-Bubbles/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/pasical/Remove-Custom-Bubbles?label=Latest%20Release&style=flat)](https://github.com/pasical/Remove-Custom-Bubbles/releases) | 干掉QQ在9.9.16.29725版本开始加入的自定义气泡皮肤，并恢复原版极简样式 |
+| [QR-Decode](https://github.com/xh321/LiteLoaderQQNT-QR-Decode) | [![Stars](https://img.shields.io/github/stars/xh321/LiteLoaderQQNT-QR-Decode?style=flat)](https://github.com/xh321/LiteLoaderQQNT-QR-Decode/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xh321/LiteLoaderQQNT-QR-Decode?label=Version&sort=semver&style=flat)](https://github.com/xh321/LiteLoaderQQNT-QR-Decode/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xh321/LiteLoaderQQNT-QR-Decode?label=Latest%20Release&style=flat)](https://github.com/xh321/LiteLoaderQQNT-QR-Decode/releases) | 聊天中的图片二维码解析 |
+| [pURLfy](https://github.com/PRO-2684/LiteLoaderQQNT-pURLfy) | [![Stars](https://img.shields.io/github/stars/PRO-2684/LiteLoaderQQNT-pURLfy?style=flat)](https://github.com/PRO-2684/LiteLoaderQQNT-pURLfy/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/PRO-2684/LiteLoaderQQNT-pURLfy?label=Version&sort=semver&style=flat)](https://github.com/PRO-2684/LiteLoaderQQNT-pURLfy/tags)<br>![Archived](https://img.shields.io/badge/Archived-2025--03--16-red?style=flat) | 净化 QQNT 中的 URL 链接 |
+| [Auto-Format-Message](https://github.com/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message) | [![Stars](https://img.shields.io/github/stars/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message?style=flat)](https://github.com/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message?label=Version&sort=semver&style=flat)](https://github.com/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message?label=Latest%20Release&style=flat)](https://github.com/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message/releases) | 格式化消息，排版要发送的中英混文消息 （人话：加空格） |
+| [Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) | [![Stars](https://img.shields.io/github/stars/xh321/LiteLoaderQQNT-Anti-Recall?style=flat)](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xh321/LiteLoaderQQNT-Anti-Recall?label=Version&sort=semver&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xh321/LiteLoaderQQNT-Anti-Recall?label=Latest%20Release&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall/releases) | 简易防撤回 |
 
-- **Stick-Emoji**: 自动给消息贴上emoji！(๑˃ᴗ˂)ﻭ
-
-  https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji
-
-- **Remove-Custom-Bubbles**: 干掉QQ在9.9.16.29725版本开始加入的自定义气泡皮肤，并恢复原版极简样式
-
-  https://github.com/pasical/Remove-Custom-Bubbles
-
-- **QR-Decode**:  聊天中的图片二维码解析
-
-  https://github.com/xh321/LiteLoaderQQNT-QR-Decode
-
-- **pURLfy**: 净化 QQNT 中的 URL 链接
-
-  https://github.com/PRO-2684/LiteLoaderQQNT-pURLfy
-
-- **Auto-Format-Message**: 格式化消息，排版要发送的中英混文消息 （人话：加空格）
-
-  https://github.com/Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message/tree/main
-
-- **Anti-Recall**:  简易防撤回
-  
-  https://github.com/xh321/LiteLoaderQQNT-Anti-Recall
-
-  基操，轻量工具箱也有防撤回，择优纳入
 
 ### 消息外围
 
-- **QuickReply**: 快捷回复
-
-  https://github.com/adproqwq/LiteLoaderQQNT-QuickReply
-
-- **AutoSendMessages**: 定时发送消息
-
-  https://github.com/adproqwq/LiteLoaderQQNT-AutoSendMessages
-
-- **AutoForward**：自动转发QQ消息至指定的好友、群聊或群内成员
-
-  https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward
-
-- **Directly-Jump**:  使用自定义浏览器打开链接并跳过拦截页
-  
-  https://github.com/xh321/LiteLoaderQQNT-Directly-Jump
-
-- **MergeMessage**：消息聚合
-
-  https://github.com/XiaWuSharve/LiteLoaderQQNT-MergeMessage
-
-- **qqMessageSave**：QQ消息保存
-
-  https://github.com/elegantland/qqMessageSave
-
-- **Quickly-Remove-Conversations**: 基于 LiteLoader 的滚轮（或自定义快捷键）快速删除会话窗口的插件
-
-  https://github.com/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations
-
-- **HotkeyChangeWindow**: 通过快捷键快速跳转聊天窗口
-
-  https://github.com/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow
-
-- **
-
-
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [QuickReply](https://github.com/adproqwq/LiteLoaderQQNT-QuickReply) | [![Stars](https://img.shields.io/github/stars/adproqwq/LiteLoaderQQNT-QuickReply?style=flat)](https://github.com/adproqwq/LiteLoaderQQNT-QuickReply/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/adproqwq/LiteLoaderQQNT-QuickReply?label=Version&sort=semver&style=flat)](https://github.com/adproqwq/LiteLoaderQQNT-QuickReply/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/adproqwq/LiteLoaderQQNT-QuickReply?label=Latest%20Release&style=flat)](https://github.com/adproqwq/LiteLoaderQQNT-QuickReply/releases) |快捷回复  |
+| [AutoSendMessages](https://github.com/adproqwq/LiteLoaderQQNT-AutoSendMessages) | [![Stars](https://img.shields.io/github/stars/adproqwq/LiteLoaderQQNT-AutoSendMessages?style=flat)](https://github.com/adproqwq/LiteLoaderQQNT-AutoSendMessages/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/adproqwq/LiteLoaderQQNT-AutoSendMessages?label=Version&sort=semver&style=flat)](https://github.com/adproqwq/LiteLoaderQQNT-AutoSendMessages/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/adproqwq/LiteLoaderQQNT-AutoSendMessages?label=Latest%20Release&style=flat)](https://github.com/adproqwq/LiteLoaderQQNT-AutoSendMessages/releases) |定时发送消息  |
+| [AutoForward](https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward) | [![Stars](https://img.shields.io/github/stars/WongJingGitt/LiteLoaderQQNT-AutoForward?style=flat)](https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/WongJingGitt/LiteLoaderQQNT-AutoForward?label=Version&sort=semver&style=flat)](https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/WongJingGitt/LiteLoaderQQNT-AutoForward?label=Latest%20Release&style=flat)](https://github.com/WongJingGitt/LiteLoaderQQNT-AutoForward/releases) | 自动转发QQ消息至指定的好友、群聊或群内成员 |
+| [Directly-Jump](https://github.com/xh321/LiteLoaderQQNT-Directly-Jump) | [![Stars](https://img.shields.io/github/stars/xh321/LiteLoaderQQNT-Directly-Jump?style=flat)](https://github.com/xh321/LiteLoaderQQNT-Directly-Jump/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/xh321/LiteLoaderQQNT-Directly-Jump?label=Version&sort=semver&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Directly-Jump/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/xh321/LiteLoaderQQNT-Directly-Jump?label=Latest%20Release&style=flat)](https://github.com/xh321/LiteLoaderQQNT-Directly-Jump/releases) | 使用自定义浏览器打开链接并跳过拦截页 |
+| [MergeMessage](https://github.com/XiaWuSharve/LiteLoaderQQNT-MergeMessage) | [![Stars](https://img.shields.io/github/stars/XiaWuSharve/LiteLoaderQQNT-MergeMessage?style=flat)](https://github.com/XiaWuSharve/LiteLoaderQQNT-MergeMessage/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/XiaWuSharve/LiteLoaderQQNT-MergeMessage?label=Version&sort=semver&style=flat)](https://github.com/XiaWuSharve/LiteLoaderQQNT-MergeMessage/tags)<br>[![Last Commit](https://img.shields.io/github/last-commit/XiaWuSharve/LiteLoaderQQNT-MergeMessage/main?label=Last%20Commit&style=flat)](https://github.com/XiaWuSharve/LiteLoaderQQNT-MergeMessage/commits/main) | 消息聚合 |
+| [qqMessageSave](https://github.com/elegantland/qqMessageSave) | [![Stars](https://img.shields.io/github/stars/elegantland/qqMessageSave?style=flat)](https://github.com/elegantland/qqMessageSave/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/elegantland/qqMessageSave?label=Version&sort=semver&style=flat)](https://github.com/elegantland/qqMessageSave/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/elegantland/qqMessageSave?label=Latest%20Release&style=flat)](https://github.com/elegantland/qqMessageSave/releases) |QQ消息保存  |
+| [Quickly-Remove-Conversations](https://github.com/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations) | [![Stars](https://img.shields.io/github/stars/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations?style=flat)](https://github.com/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations?label=Version&sort=semver&style=flat)](https://github.com/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations?label=Latest%20Release&style=flat)](https://github.com/jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations/releases) | 基于 LiteLoader 的滚轮（或自定义快捷键）快速删除会话窗口的插件 |
+| [HotkeyChangeWindow](https://github.com/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow) | [![Stars](https://img.shields.io/github/stars/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow?style=flat)](https://github.com/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow?label=Version&sort=semver&style=flat)](https://github.com/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow?label=Latest%20Release&style=flat)](https://github.com/AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow/releases) |通过快捷键快速跳转聊天窗口  |
 
 
 
