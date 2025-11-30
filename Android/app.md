@@ -1,5 +1,22 @@
 ## 安卓app陈列
 
+
+### 虚拟定位
+
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [GoGoGo](https://github.com/ZCShou/GoGoGo) | [![Stars](https://img.shields.io/github/stars/ZCShou/GoGoGo?style=flat)](https://github.com/ZCShou/GoGoGo/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/ZCShou/GoGoGo?label=Version&sort=semver&style=flat)](https://github.com/ZCShou/GoGoGo/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/ZCShou/GoGoGo?label=Latest%20Release&style=flat)](https://github.com/ZCShou/GoGoGo/releases) |  |
+| [FakeLocation](https://github.com/Lerist/FakeLocation) | [![Stars](https://img.shields.io/github/stars/Lerist/FakeLocation?style=flat)](https://github.com/Lerist/FakeLocation/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/Lerist/FakeLocation?label=Version&sort=semver&style=flat)](https://github.com/Lerist/FakeLocation/tags)<br>![Archived](https://img.shields.io/badge/Archived-2025--11--02-red?style=flat) |  |
+
+
+
+
+
+
+
+
+
+
 ### 元数据
 | 项目 | 功能 | 备注 |
 |------|------|------|
