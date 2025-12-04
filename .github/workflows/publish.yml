@@ -2,7 +2,7 @@ name: publish site
 on:
   push:
     branches:
-      - main  # 确保这里是你仓库的主分支名字 (main 或 master)
+      - main
 
 permissions:
   contents: write
@@ -11,8 +11,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      # 【修改点 1】：添加 fetch-depth: 0
+      # 必须拉取完整的 Git 历史，插件才能读取到文件的“修改日期”
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0 
+
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
@@ -21,9 +25,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      
+
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      
+
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
@@ -31,8 +35,10 @@ jobs:
           restore-keys: |
             mkdocs-material-
       
+      # 【修改点 2】：添加插件安装包
+      # 在 mkdocs.yml 里用了插件，这里必须 pip install 它
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocs-awesome-pages-plugin
-      
+        run: pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin
+
       - name: Deploy
         run: mkdocs gh-deploy --force
