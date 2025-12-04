@@ -1,0 +1,49 @@
+site_name: San-Ren 的自留地
+site_url: https://yourname.github.io/private-plot/ # 稍后替换成你真实的 URL
+repo_url: https://github.com/san-ren/private-plot
+repo_name: san-ren/private-plot
+edit_uri: edit/main/docs/ # 允许在页面上点击“编辑此页”跳转到 GitHub
+
+theme:
+  name: material
+  language: zh            # 强制中文
+  features:
+    - navigation.expand   # 默认展开左侧目录
+    - navigation.top      # 返回顶部按钮
+    - navigation.tracking # 滚动时侧边栏自动跟随
+    - search.suggest      # 搜索输入建议
+    - search.highlight    # 搜索结果高亮
+    - content.code.copy   # 代码块右上角显示复制按钮
+  palette:                # 切换亮色/暗色模式的按钮
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: 切换至亮色模式
+
+# 插件配置
+plugins:
+  - search
+  - awesome-pages:        # 自动处理目录结构，无需手动维护侧边栏
+      collapse_single_pages: true
+
+# Markdown 扩展功能（增强笔记体验）
+markdown_extensions:
+  - admonition            # 支持提示块 (!!! note "提示")
+  - pymdownx.details      # 支持折叠块 (??? "点击展开")
+  - pymdownx.highlight:   # 代码高亮
+      anchor_linenums: true
+  - pymdownx.superfences  # 支持代码块嵌套
+  - pymdownx.tabbed:      # 支持选项卡
+      alternate_style: true 
+  - toc:
+      permalink: true     # 标题旁显示锚点链接符号
+
+# 导航配置：留空！
+# 因为安装了 awesome-pages 插件，它会自动扫描 docs 文件夹生成目录
+# nav:
