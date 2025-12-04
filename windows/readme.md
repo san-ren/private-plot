@@ -10,12 +10,15 @@
 - [科技_Web3 - YouTube](https://www.youtube.com/@Andy_Web3/videos)
 - [Sub: 自用clash订阅链接](https://github.com/anaer/Sub)
 ![stars](https://img.shields.io/github/stars/anaer/Sub)
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-![stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev)
 
-- [mihomo-party](https://github.com/mihomo-party-org/mihomo-party)
-![stars](https://img.shields.io/github/stars/mihomo-party-org/mihomo-party)
 
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [![Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat)](https://github.com/clash-verge-rev/clash-verge-rev/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/clash-verge-rev/clash-verge-rev?label=Version&sort=semver&style=flat)](https://github.com/clash-verge-rev/clash-verge-rev/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/clash-verge-rev/clash-verge-rev?label=Latest%20Release&style=flat)](https://github.com/clash-verge-rev/clash-verge-rev/releases) | Android，Windows |
+| [FlClash](https://github.com/chen08209/FlClash) | [![Stars](https://img.shields.io/github/stars/chen08209/FlClash?style=flat)](https://github.com/chen08209/FlClash/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/chen08209/FlClash?label=Version&sort=semver&style=flat)](https://github.com/chen08209/FlClash/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/chen08209/FlClash?label=Latest%20Release&style=flat)](https://github.com/chen08209/FlClash/releases) | Android，Windows |
+| [clash-party](https://github.com/mihomo-party-org/clash-party) | [![Stars](https://img.shields.io/github/stars/mihomo-party-org/clash-party?style=flat)](https://github.com/mihomo-party-org/clash-party/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/mihomo-party-org/clash-party?label=Version&sort=semver&style=flat)](https://github.com/mihomo-party-org/clash-party/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/mihomo-party-org/clash-party?label=Latest%20Release&style=flat)](https://github.com/mihomo-party-org/clash-party/releases) | Windows |
+| [v2rayN](https://github.com/2dust/v2rayN) | [![Stars](https://img.shields.io/github/stars/2dust/v2rayN?style=flat)](https://github.com/2dust/v2rayN/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/2dust/v2rayN?label=Version&sort=semver&style=flat)](https://github.com/2dust/v2rayN/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/2dust/v2rayN?label=Latest%20Release&style=flat)](https://github.com/2dust/v2rayN/releases) | Android，Windows |
+| [hiddify-app](https://github.com/hiddify/hiddify-app) | [![Stars](https://img.shields.io/github/stars/hiddify/hiddify-app?style=flat)](https://github.com/hiddify/hiddify-app/stargazers)<br>[![Version](https://img.shields.io/github/v/tag/hiddify/hiddify-app?label=Version&sort=semver&style=flat)](https://github.com/hiddify/hiddify-app/tags)<br>[![Latest Release](https://img.shields.io/github/release-date/hiddify/hiddify-app?label=Latest%20Release&style=flat)](https://github.com/hiddify/hiddify-app/releases) | Android，Windows |
 
 
 
