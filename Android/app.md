@@ -77,8 +77,20 @@ Hydrogen|https://github.com/huajiqaq/Hydrogen|第三方知乎
 c001apk|https://github.com/bggRGjQaUbCoE/c001apk|第三方酷安
 
 #### reddit 三方
+
+> 2023年 Reddit 对 API 收费，断绝三方app之路
+
 | 项目 | 功能 | 备注 |
 |------|------|------|
+[RedReader](https://github.com/QuantumBadger/RedReader)|  开源
+[Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)|  app 支持中文
+[Relay for reddit ](https://play.google.com/store/apps/details?id=reddit.news&hl=zh)
+[Atom For Reddit](https://atomreddit.com/)
+[Sync for Reddit](https://todo.syncforreddit.com/)| 貌似2023api收费后就停更
+boost for reddit| 
+
+
+
 
 
 
