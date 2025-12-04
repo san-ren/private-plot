@@ -29,9 +29,10 @@ theme:
 # 插件配置
 plugins:
   - search
+  - git-revision-date-localized
   - awesome-pages:        # 自动处理目录结构，无需手动维护侧边栏
       collapse_single_pages: true
-  - git-revision-date-localized
+  
 
 # Markdown 扩展功能（增强笔记体验）
 markdown_extensions:
