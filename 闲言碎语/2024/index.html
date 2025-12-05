@@ -51,6 +51,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -67,7 +69,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -90,7 +92,7 @@
 
   
 
-<header class="md-header md-header--shadow" data-md-component="header">
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="页眉">
     <a href="../.." title="San-Ren 的自留地" class="md-header__button md-logo" aria-label="San-Ren 的自留地" data-md-component="logo">
       
@@ -125,20 +127,20 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label="切换至深色模式"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo"  aria-label="切换至亮色模式"  type="radio" name="__palette" id="__palette_0">
     
-      <label class="md-header__button md-icon" title="切换至深色模式" for="__palette_1" hidden>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      <label class="md-header__button md-icon" title="切换至亮色模式" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
       </label>
     
   
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label="切换至亮色模式"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="indigo"  aria-label="切换至深色模式"  type="radio" name="__palette" id="__palette_1">
     
-      <label class="md-header__button md-icon" title="切换至亮色模式" for="__palette_0" hidden>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      <label class="md-header__button md-icon" title="切换至深色模式" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
       </label>
     
   
@@ -207,13 +209,161 @@
     
   </nav>
   
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E9%9F%B3%E6%BA%90/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  音源
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E9%A1%B9%E7%9B%AE%E5%BA%94%E7%94%A8%E5%AE%9E%E5%BD%95/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  项目应用实录
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Android/1.App/" class="md-tabs__link">
+          
+  
+  
+  Android
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Python/1.Python%E9%85%8D%E7%BD%AE%E5%92%8C%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/" class="md-tabs__link">
+          
+  
+  
+  Python
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../windows/1%E3%80%81LiteLoaderQQNT/" class="md-tabs__link">
+          
+  
+  
+  Windows
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  
+  闲言碎语
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
 </header>
     
     <div class="md-container" data-md-component="container">
       
       
-        
-          
         
       
       <main class="md-main" data-md-component="main">
@@ -227,8 +377,12 @@
                     
 
 
+  
 
-<nav class="md-nav md-nav--primary" aria-label="导航栏" data-md-level="0">
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="导航栏" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../.." title="San-Ren 的自留地" class="md-nav__button md-logo" aria-label="San-Ren 的自留地" data-md-component="logo">
       
@@ -343,6 +497,11 @@
     
     
     
+    
+      
+      
+        
+      
     
     
     <li class="md-nav__item md-nav__item--nested">
@@ -483,6 +642,11 @@
     
     
     
+    
+      
+      
+        
+      
     
     
     <li class="md-nav__item md-nav__item--nested">
@@ -679,6 +843,11 @@
     
     
     
+    
+      
+      
+        
+      
     
     
     <li class="md-nav__item md-nav__item--nested">
@@ -934,15 +1103,23 @@
     
     
     
+      
+        
+        
+      
+      
+        
+      
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
         
           
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
             
   
   
@@ -1121,65 +1298,6 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-
-<nav class="md-nav md-nav--secondary" aria-label="目录">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      目录
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#11" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        1.1 网络废弃仓库
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#12" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        1.2 网盘
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#13" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        1.3 影音
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           
             <div class="md-content" data-md-component="content">
@@ -1197,8 +1315,8 @@
 <ul>
 <li>Ladybird ：全新独立开源浏览器</li>
 </ul>
-<p>https://github.com/goldmansachs/gs-quant</p>
-<p>https://ladybird.org/</p>
+<p><a href="https://github.com/goldmansachs/gs-quant">https://github.com/goldmansachs/gs-quant</a></p>
+<p><a href="https://ladybird.org/">https://ladybird.org/</a></p>
 <p>瑞典程序员Andreas Kling为了打发戒毒后无所事事的时光，他开始开发一套全新的操作系统：</p>
 <p>SerenityOS/宁静OS</p>
 <p>后来又从其中分离出浏览器引擎部分，计划基于此做一个全新、跨平台的开源浏览器，它没有来自其它浏览器的代码。</p>
@@ -1273,23 +1391,23 @@
 <p>扩展阅读：</p>
 <blockquote>
 <p>1.互联网死了23%，这只是开始 – 虹线（2015-04-14）
-https://1q43.blog/post/1927</p>
+<a href="https://1q43.blog/post/1927">https://1q43.blog/post/1927</a></p>
 <p>2.互联网是人类历史的一段弯路吗？ – 虹线（2020-04-16）
-https://1q43.blog/post/673</p>
+<a href="https://1q43.blog/post/673">https://1q43.blog/post/673</a></p>
 <p>3.垄断的困境 – 虹线（2021-05-06）
-https://1q43.blog/post/766</p>
+<a href="https://1q43.blog/post/766">https://1q43.blog/post/766</a></p>
 <p>4.互联网与中国后现代性呓语 – 虹线（2022-04-18）
-https://1q43.blog/post/782</p>
-<p>5.【中文互联网正成为一座牢笼【智先生】】（2023-12-06 ） https://www.bilibili.com/video/BV1KC4y1R7NM/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</p>
+<a href="https://1q43.blog/post/782">https://1q43.blog/post/782</a></p>
+<p>5.【中文互联网正成为一座牢笼【智先生】】（2023-12-06 ） <a href="https://www.bilibili.com/video/BV1KC4y1R7NM/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900">https://www.bilibili.com/video/BV1KC4y1R7NM/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</a></p>
 <p>6.互联网公司的管理神话破灭 – 虹线（2024-02-04）
-https://1q43.blog/post/5187</p>
+<a href="https://1q43.blog/post/5187">https://1q43.blog/post/5187</a></p>
 <p>7.何加盐｜中文互联网正在加速崩塌（2024-5-23）
-https://project-gutenberg.github.io/Pincong/post/a5603ace66c80ee5e1f3d8417189df32/</p>
+<a href="https://project-gutenberg.github.io/Pincong/post/a5603ace66c80ee5e1f3d8417189df32/">https://project-gutenberg.github.io/Pincong/post/a5603ace66c80ee5e1f3d8417189df32/</a></p>
 <p>8.世界需要重回资本主义 – 虹线（2024-06-11）
-https://1q43.blog/post/5901</p>
-<p>9.【谁才是杀死中文互联网的罪魁祸首？【丰言疯话】】（2024-05-26） https://www.bilibili.com/video/BV1ub421i7Hr/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</p>
+<a href="https://1q43.blog/post/5901">https://1q43.blog/post/5901</a></p>
+<p>9.【谁才是杀死中文互联网的罪魁祸首？【丰言疯话】】（2024-05-26） <a href="https://www.bilibili.com/video/BV1ub421i7Hr/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900">https://www.bilibili.com/video/BV1ub421i7Hr/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</a></p>
 <p>10.🙏少读点书，多刷刷抖音吧 – 虹线（2024-06-18）
-https://1q43.blog/post/2233</p>
+<a href="https://1q43.blog/post/2233">https://1q43.blog/post/2233</a></p>
 </blockquote>
 <h2 id="12">1.2 网盘<a class="headerlink" href="#12" title="Permanent link">&para;</a></h2>
 <p>2024年6月3日21：00，百度封禁解析账号。</p>
@@ -1303,11 +1421,11 @@ https://1q43.blog/post/2233</p>
 <a href="https://github.com/minggithubaccount/pandownload_backup"><img alt="" src="https://img.shields.io/badge/github-pandownload_backup-blue" /></a></li>
 </ul>
 <p>这是先驱吧？<br />
- ~~http://www.pandownload.com/~~    </p>
+<del><a href="http://www.pandownload.com/">http://www.pandownload.com/</a></del>    </p>
 <ul>
 <li>
 <p>KinhDown  <br />
-  https://kinhdown.kinh.cc/</p>
+<a href="https://kinhdown.kinh.cc/">https://kinhdown.kinh.cc/</a></p>
 <p><details>
     <summary>preview</summary>
     <image src="https://github.com/GiveStar/private-plot/assets/86779955/eea316b1-2f4d-4677-9b05-f8cb4315f22e">
@@ -1317,7 +1435,7 @@ https://1q43.blog/post/2233</p>
 <p>雷鸟下载</p>
 </li>
 </ul>
-<p>https://github.com/thunderbird-team/ThunderBird_OpenSource</p>
+<p><a href="https://github.com/thunderbird-team/ThunderBird_OpenSource">https://github.com/thunderbird-team/ThunderBird_OpenSource</a></p>
 <details>
     <summary>preview</summary>
     <image src="https://github.com/GiveStar/private-plot/assets/86779955/174ce7ac-3e67-4b19-86d3-aa3da98ea95d">
@@ -1327,7 +1445,7 @@ https://1q43.blog/post/2233</p>
 <ul>
 <li>就是加速</li>
 </ul>
-<p>https://api.94speed.com/</p>
+<p><a href="https://api.94speed.com/">https://api.94speed.com/</a></p>
 <details>
     <summary>preview</summary>
     <image src="https://github.com/san-ren/private-plot/assets/86779955/3a561b0d-8235-4cf1-915d-d7d879ea4232">
@@ -1426,10 +1544,10 @@ https://1q43.blog/post/2233</p>
 <ul>
 <li>MusicLake</li>
 </ul>
-<p>https://github.com/caiyonglong/MusicLake/
+<p><a href="https://github.com/caiyonglong/MusicLake/">https://github.com/caiyonglong/MusicLake/</a>
     <details>
           <summary>preview</summary>
-          &lt;image src="https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9"
+          &lt;image src="<a href="https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9">https://github.com/san-ren/private-plot/assets/86779955/255f1991-abdf-4cb0-ac93-63155af6fed9</a>"
     </details></p>
 <ul>
 <li>
@@ -1437,7 +1555,7 @@ https://1q43.blog/post/2233</p>
 <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzU2NTk3NzE4NA==&amp;scene=124#wechat_redirect"><img alt="" src="https://img.shields.io/badge/微信公众号-歌词适配-blue" /></a></p>
 <p><details>
         <summary>preview</summary>
-        &lt;image src="https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181"
+        &lt;image src="<a href="https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181">https://github.com/san-ren/private-plot/assets/86779955/c815a952-d894-4a2f-a177-159c97bae181</a>"
     </details></p>
 </li>
 </ul>
@@ -1462,15 +1580,15 @@ https://1q43.blog/post/2233</p>
 <p>2024.6月末</p>
 <blockquote>
 <p>扩展：</p>
-<p>1.【我将所有的基金知识浓缩到4分钟视频里了】（2020-02-16） https://www.bilibili.com/video/BV1P7411E7SG/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</p>
-<p>2.【耗时1月，查阅近百份资料，全网最牛复盘！足以载入史册的金融战争—GameStop游戏驿站（GME），散户大战华尔街事件始末】（2021-03-17） https://www.bilibili.com/video/BV1yf4y1s731/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</p>
+<p>1.【我将所有的基金知识浓缩到4分钟视频里了】（2020-02-16） <a href="https://www.bilibili.com/video/BV1P7411E7SG/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900">https://www.bilibili.com/video/BV1P7411E7SG/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</a></p>
+<p>2.【耗时1月，查阅近百份资料，全网最牛复盘！足以载入史册的金融战争—GameStop游戏驿站（GME），散户大战华尔街事件始末】（2021-03-17） <a href="https://www.bilibili.com/video/BV1yf4y1s731/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900">https://www.bilibili.com/video/BV1yf4y1s731/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</a></p>
 <p>3.【太燃了！散户vs华尔街世纪大战，一夜8次熔断，拔网线、禁止交易都用上了！】 （2021-01-30）
-https://www.bilibili.com/video/BV1nX4y1N7UB</p>
-<p>4.【滥用bug导致上交所官方回档、作废交易、公然掀桌？！万字详解327事件！】（2024-03-01） https://www.bilibili.com/video/BV1hF4m157nD/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</p>
+<a href="https://www.bilibili.com/video/BV1nX4y1N7UB">https://www.bilibili.com/video/BV1nX4y1N7UB</a></p>
+<p>4.【滥用bug导致上交所官方回档、作废交易、公然掀桌？！万字详解327事件！】（2024-03-01） <a href="https://www.bilibili.com/video/BV1hF4m157nD/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900">https://www.bilibili.com/video/BV1hF4m157nD/?share_source=copy_web&amp;vd_source=e7e7b7b17da2a00765c198e1206fa900</a></p>
 <p>5.【深度干货】万字复盘A股34年历史|A股历史复盘|价格闯关|股权分置改革|2008金融危机|2015大牛市|2020新冠危机 （2024-04-21）
-https://www.bilibili.com/video/BV1TE421M7jm</p>
+<a href="https://www.bilibili.com/video/BV1TE421M7jm">https://www.bilibili.com/video/BV1TE421M7jm</a></p>
 <p>6.【纪录片】A股史上最大股灾！全面回顾A股的6次股灾！股票投资必看！ （2024-05-03）
-https://www.bilibili.com/video/BV1hD421P7tn
+<a href="https://www.bilibili.com/video/BV1hD421P7tn">https://www.bilibili.com/video/BV1hD421P7tn</a>
 </p>
 </blockquote>
 <h2 id="202476">2024.7.6<a class="headerlink" href="#202476" title="Permanent link">&para;</a></h2>
@@ -1494,7 +1612,7 @@ https://www.bilibili.com/video/BV1hD421P7tn
 <ul>
 <li>
 <p>MathewSachin/Captura: Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes</p>
-<p>https://github.com/MathewSachin/Captura</p>
+<p><a href="https://github.com/MathewSachin/Captura">https://github.com/MathewSachin/Captura</a></p>
 <p>归档后还在持续增长star数目</p>
 <p>fork数量达到2k</p>
 <p>足以说明这是一个非常优秀的项目</p>
@@ -1546,27 +1664,6 @@ https://www.bilibili.com/video/BV1hD421P7tn
 
 
 
-  
-    
-  
-  
-
-
-  <aside class="md-source-file">
-    
-      
-  <span class="md-source-file__fact">
-    <span class="md-icon" title="最后更新">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
-    </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="2025年3月6日 04:24:12 UTC">2025年3月6日</span>
-  </span>
-
-    
-    
-    
-    
-  </aside>
 
 
 
@@ -1615,7 +1712,7 @@ https://www.bilibili.com/video/BV1hD421P7tn
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.expand", "navigation.top", "navigation.tracking", "search.suggest", "search.highlight", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.top", "toc.integrate", "search.suggest", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
     
     
       <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>

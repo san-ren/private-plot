@@ -51,6 +51,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -67,7 +69,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -90,7 +92,7 @@
 
   
 
-<header class="md-header md-header--shadow" data-md-component="header">
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="页眉">
     <a href="../.." title="San-Ren 的自留地" class="md-header__button md-logo" aria-label="San-Ren 的自留地" data-md-component="logo">
       
@@ -125,20 +127,20 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label="切换至深色模式"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo"  aria-label="切换至亮色模式"  type="radio" name="__palette" id="__palette_0">
     
-      <label class="md-header__button md-icon" title="切换至深色模式" for="__palette_1" hidden>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      <label class="md-header__button md-icon" title="切换至亮色模式" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
       </label>
     
   
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label="切换至亮色模式"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="indigo"  aria-label="切换至深色模式"  type="radio" name="__palette" id="__palette_1">
     
-      <label class="md-header__button md-icon" title="切换至亮色模式" for="__palette_0" hidden>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      <label class="md-header__button md-icon" title="切换至深色模式" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
       </label>
     
   
@@ -207,13 +209,161 @@
     
   </nav>
   
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E9%9F%B3%E6%BA%90/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  音源
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../%E9%A1%B9%E7%9B%AE%E5%BA%94%E7%94%A8%E5%AE%9E%E5%BD%95/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  项目应用实录
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Android/1.App/" class="md-tabs__link">
+          
+  
+  
+  Android
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Python/1.Python%E9%85%8D%E7%BD%AE%E5%92%8C%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/" class="md-tabs__link">
+          
+  
+  
+  Python
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../1%E3%80%81LiteLoaderQQNT/" class="md-tabs__link">
+          
+  
+  
+  Windows
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../%E9%97%B2%E8%A8%80%E7%A2%8E%E8%AF%AD/2024/" class="md-tabs__link">
+          
+  
+  
+  闲言碎语
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
 </header>
     
     <div class="md-container" data-md-component="container">
       
       
-        
-          
         
       
       <main class="md-main" data-md-component="main">
@@ -227,8 +377,12 @@
                     
 
 
+  
 
-<nav class="md-nav md-nav--primary" aria-label="导航栏" data-md-level="0">
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="导航栏" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../.." title="San-Ren 的自留地" class="md-nav__button md-logo" aria-label="San-Ren 的自留地" data-md-component="logo">
       
@@ -343,6 +497,11 @@
     
     
     
+    
+      
+      
+        
+      
     
     
     <li class="md-nav__item md-nav__item--nested">
@@ -483,6 +642,11 @@
     
     
     
+    
+      
+      
+        
+      
     
     
     <li class="md-nav__item md-nav__item--nested">
@@ -682,15 +846,23 @@
     
     
     
+      
+        
+        
+      
+      
+        
+      
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
         
           
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
             
   
   
@@ -1036,6 +1208,11 @@
     
     
     
+      
+      
+        
+      
+    
     
     <li class="md-nav__item md-nav__item--nested">
       
@@ -1145,91 +1322,6 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-
-<nav class="md-nav md-nav--secondary" aria-label="目录">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      目录
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        指定站点
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        链接
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        脚本
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        扩展
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="扩展">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        网页阅读优化
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           
             <div class="md-content" data-md-component="content">
@@ -1249,23 +1341,23 @@
 <ul>
 <li><strong>FIX for "Bing Search returns to the top" !</strong></li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/461790-fix-for-bing-search-returns-to-the-top</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/461790-fix-for-bing-search-returns-to-the-top">https://greasyfork.org/zh-CN/scripts/461790-fix-for-bing-search-returns-to-the-top</a></p>
 <ul>
 <li><strong>bilibili-cleaner</strong>: bilibili 页面净化大师，深度净化 B 站页面，过滤视频，过滤评论</li>
 </ul>
-<p>https://github.com/festoney8/bilibili-cleaner</p>
+<p><a href="https://github.com/festoney8/bilibili-cleaner">https://github.com/festoney8/bilibili-cleaner</a></p>
 <ul>
 <li><strong>hanydd/BilibiliSponsorBlock</strong>: 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。</li>
 </ul>
-<p>https://github.com/hanydd/BilibiliSponsorBlock
+<p><a href="https://github.com/hanydd/BilibiliSponsorBlock">https://github.com/hanydd/BilibiliSponsorBlock</a>
 - <strong>知乎修改器</strong>🤜持续更新🤛努力实现功能最全的知乎配置插件</p>
-<p>https://greasyfork.org/zh-CN/scripts/423404-%E7%9F%A5%E4%B9%8E%E4%BF%AE%E6%94%B9%E5%99%A8-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E5%8A%AA%E5%8A%9B%E5%AE%9E%E7%8E%B0%E5%8A%9F%E8%83%BD%E6%9C%80%E5%85%A8%E7%9A%84%E7%9F%A5%E4%B9%8E%E9%85%8D%E7%BD%AE%E6%8F%92%E4%BB%B6</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/423404-%E7%9F%A5%E4%B9%8E%E4%BF%AE%E6%94%B9%E5%99%A8-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E5%8A%AA%E5%8A%9B%E5%AE%9E%E7%8E%B0%E5%8A%9F%E8%83%BD%E6%9C%80%E5%85%A8%E7%9A%84%E7%9F%A5%E4%B9%8E%E9%85%8D%E7%BD%AE%E6%8F%92%E4%BB%B6">https://greasyfork.org/zh-CN/scripts/423404-%E7%9F%A5%E4%B9%8E%E4%BF%AE%E6%94%B9%E5%99%A8-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E5%8A%AA%E5%8A%9B%E5%AE%9E%E7%8E%B0%E5%8A%9F%E8%83%BD%E6%9C%80%E5%85%A8%E7%9A%84%E7%9F%A5%E4%B9%8E%E9%85%8D%E7%BD%AE%E6%8F%92%E4%BB%B6</a></p>
 <ul>
 <li><strong>知乎浏览助手</strong></li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/400790-%E7%9F%A5%E4%B9%8E%E6%B5%8F%E8%A7%88%E5%8A%A9%E6%89%8B
+<p><a href="https://greasyfork.org/zh-CN/scripts/400790-%E7%9F%A5%E4%B9%8E%E6%B5%8F%E8%A7%88%E5%8A%A9%E6%89%8B">https://greasyfork.org/zh-CN/scripts/400790-%E7%9F%A5%E4%B9%8E%E6%B5%8F%E8%A7%88%E5%8A%A9%E6%89%8B</a>
 - <strong>EasyCSDN</strong>: 这是一款促进CSDN极致简洁和高效的插件。免费共享大量创新功能，如：净化页面、展示全屏、显示推荐、复制文本、展开代码等。让我们的学习体验无比简洁、专注、高效、畅快。</p>
-<p>https://github.com/xcanwin/EasyCSDN</p>
+<p><a href="https://github.com/xcanwin/EasyCSDN">https://github.com/xcanwin/EasyCSDN</a></p>
 <ul>
 <li>
 <p><a href="https://greasyfork.org/zh-CN/scripts/428960-csdn-%E7%9F%A5%E4%B9%8E-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%AE%80%E4%B9%A6%E5%85%8D%E7%99%BB%E5%BD%95%E5%8E%BB%E9%99%A4%E5%BC%B9%E7%AA%97%E5%B9%BF%E5%91%8A">CSDN/知乎/哔哩哔哩/简书免登录去除弹窗广告 🛡</a></p>
@@ -1280,20 +1372,20 @@
 <ul>
 <li><strong>Open-the-F-king-URL-Right-Now</strong>: 自动跳转某些网站不希望用户直达的外链</li>
 </ul>
-<p>https://github.com/OldPanda/Open-the-F-king-URL-Right-Now</p>
+<p><a href="https://github.com/OldPanda/Open-the-F-king-URL-Right-Now">https://github.com/OldPanda/Open-the-F-king-URL-Right-Now</a></p>
 <ul>
 <li><strong>自动展开</strong>、     <strong>骚扰拦截</strong></li>
 </ul>
-<p>https://github.com/AirBashX/UserScript?tab=readme-ov-file</p>
+<p><a href="https://github.com/AirBashX/UserScript?tab=readme-ov-file">https://github.com/AirBashX/UserScript?tab=readme-ov-file</a></p>
 <ul>
 <li><strong>1✅双击文本链接转换</strong></li>
 </ul>
 <p>只找到这一个可在B站评论区生效的</p>
-<p>https://meta.appinn.net/t/topic/61304/10?u=erzhu</p>
+<p><a href="https://meta.appinn.net/t/topic/61304/10?u=erzhu">https://meta.appinn.net/t/topic/61304/10?u=erzhu</a></p>
 <ul>
 <li><strong>文本链接自动识别为超链接</strong></li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/452150-textlink-to-hyperlink</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/452150-textlink-to-hyperlink">https://greasyfork.org/zh-CN/scripts/452150-textlink-to-hyperlink</a></p>
 <ul>
 <li><strong>linkify-plus-plus</strong>:</li>
 </ul>
@@ -1301,65 +1393,65 @@
 <ul>
 <li>
 <p><strong>Open All Links(批量打开网页链接)</strong></p>
-<p>https://greasyfork.org/zh-CN/scripts/463521-open-all-links-%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/463521-open-all-links-%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5">https://greasyfork.org/zh-CN/scripts/463521-open-all-links-%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5</a></p>
 </li>
 <li>
 <p>🔗<strong>Link-/链简</strong></p>
 </li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/463904-link</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/463904-link">https://greasyfork.org/zh-CN/scripts/463904-link</a></p>
 <ul>
 <li><strong>🔗 链接助手</strong>（更新于2023年9月19日）</li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/464541-links-helper</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/464541-links-helper">https://greasyfork.org/zh-CN/scripts/464541-links-helper</a></p>
 <ul>
 <li><strong>链接助手</strong>（更新于2021年11月13日）</li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B</p>
+<p><a href="https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B">https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B</a></p>
 <ul>
 <li><strong>链接预览</strong>（2024.6.28发现，但失效）</li>
 </ul>
-<p>https://greasyfork.org/zh-CN/scripts/483134-%E9%93%BE%E6%8E%A5%E9%A2%84%E8%A7%88
+<p><a href="https://greasyfork.org/zh-CN/scripts/483134-%E9%93%BE%E6%8E%A5%E9%A2%84%E8%A7%88">https://greasyfork.org/zh-CN/scripts/483134-%E9%93%BE%E6%8E%A5%E9%A2%84%E8%A7%88</a>
 - <a href="https://www.runningcheese.com/hyperlink-restore">大声密谋！整治“互不联网”和“超不链接” - 奔跑中的奶酪</a>
 - <a href="https://www.runningcheese.com/bookmarklets">各种骚操作，中文网最全 Bookmarklet 小书签 - 奔跑中的奶酪</a></p>
 <h2 id="_3">脚本<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>wps_script</strong>: WPS签到脚本集合，适用于“金山文档”中AirScript自动化执行。签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜</li>
 </ul>
-<p>https://github.com/poboll/wps_script</p>
+<p><a href="https://github.com/poboll/wps_script">https://github.com/poboll/wps_script</a></p>
 <ul>
 <li><strong>alipan_auto_sign</strong>: 阿里云盘、B站直播、京东领京豆每日自动签到脚本</li>
 </ul>
-<p>https://github.com/nibabashilkk/alipan_auto_sign</p>
+<p><a href="https://github.com/nibabashilkk/alipan_auto_sign">https://github.com/nibabashilkk/alipan_auto_sign</a></p>
 <ul>
 <li><strong>Online-disk-direct-link-download-assistant</strong>: 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！</li>
 </ul>
-<p>https://github.com/hmjz100/Online-disk-direct-link-download-assistant</p>
+<p><a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">https://github.com/hmjz100/Online-disk-direct-link-download-assistant</a></p>
 <ul>
-<li><strong>netdisk-fast-download</strong>: 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/UC网盘/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top</li>
+<li><strong>netdisk-fast-download</strong>: 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/UC网盘/小飞机盘/亿方云/123云盘等. 预览地址 <a href="https://lz.qaiu.top">https://lz.qaiu.top</a></li>
 </ul>
-<p>https://github.com/qaiu/netdisk-fast-download</p>
+<p><a href="https://github.com/qaiu/netdisk-fast-download">https://github.com/qaiu/netdisk-fast-download</a></p>
 <ul>
 <li><strong>94list</strong>: 百度网盘分享链接分析渲染列表辅助下载开源程序</li>
 </ul>
-<p>https://github.com/codehub666/94list</p>
+<p><a href="https://github.com/codehub666/94list">https://github.com/codehub666/94list</a></p>
 <ul>
 <li><strong>baiduwp-php</strong>: A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具</li>
 </ul>
-<p>https://github.com/yuantuo666/baiduwp-php</p>
+<p><a href="https://github.com/yuantuo666/baiduwp-php">https://github.com/yuantuo666/baiduwp-php</a></p>
 <ul>
 <li><strong>github-chinese</strong>: GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</li>
 </ul>
-<p>https://github.com/maboloshi/github-chinese?tab=readme-ov-file</p>
+<p><a href="https://github.com/maboloshi/github-chinese?tab=readme-ov-file">https://github.com/maboloshi/github-chinese?tab=readme-ov-file</a></p>
 <h2 id="_4">扩展<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>tab-copy</strong>:</li>
 </ul>
-<p>https://github.com/hansifer/tab-copy</p>
+<p><a href="https://github.com/hansifer/tab-copy">https://github.com/hansifer/tab-copy</a></p>
 <ul>
 <li><strong>CopyTabTitleUrl</strong></li>
 </ul>
-<p>https://github.com/k08045kk/CopyTabTitleUrl?tab=readme-ov-file
+<p><a href="https://github.com/k08045kk/CopyTabTitleUrl?tab=readme-ov-file">https://github.com/k08045kk/CopyTabTitleUrl?tab=readme-ov-file</a>
 - **</p>
 <h3 id="_5">网页阅读优化<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
 <p><a href="https://www.sysgeek.cn/reading-mode-in-chrome-edge-safari-and-firefox/">如何使用浏览器「阅读模式」：Chrome、Edge、Safari 和 Firefox - 系统极客</a></p>
@@ -1435,27 +1527,6 @@
 
 
 
-  
-    
-  
-  
-
-
-  <aside class="md-source-file">
-    
-      
-  <span class="md-source-file__fact">
-    <span class="md-icon" title="最后更新">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
-    </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="2025年9月9日 07:01:26 UTC">2025年9月9日</span>
-  </span>
-
-    
-    
-    
-    
-  </aside>
 
 
 
@@ -1504,7 +1575,7 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.expand", "navigation.top", "navigation.tracking", "search.suggest", "search.highlight", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.top", "toc.integrate", "search.suggest", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
     
     
       <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
