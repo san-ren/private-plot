@@ -1,0 +1,133 @@
+/* docs/stylesheets/extra.css */
+
+/* 1. 全局背景不再是纯白，而是柔和的浅灰色 */
+/* 这里的 [data-md-color-scheme="default"] 确保只在白天模式生效 */
+[data-md-color-scheme="default"] body {
+    background-color: #f3f4f6; /* 这是一个很舒服的浅灰 */
+}
+
+/* 2. 顶栏 (Header) 美化：磨砂玻璃效果 */
+.md-header {
+    background-color: rgba(255, 255, 255, 0.8) !important; /* 半透明白 */
+    backdrop-filter: blur(10px); /* 磨砂模糊 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* 柔和阴影 */
+}
+
+/* 3. 顶栏文字颜色修正（因为背景变白了，文字要深色） */
+[data-md-color-scheme="default"] .md-header {
+    color: #333 !important;
+}
+/* 修正顶栏所有的 Tab 文字颜色 */
+[data-md-color-scheme="default"] .md-tabs {
+    background-color: transparent !important;
+    color: #555 !important;
+}
+/* 选中 Tab 时的颜色 */
+[data-md-color-scheme="default"] .md-tabs__item--active {
+    color: #000 !important; /* 选中变黑 */
+    font-weight: bold;
+}
+
+/* 4. 【核心】内容区变为“卡片” */
+/* 给文章内容加白色背景、圆角和阴影，把它从灰色背景里“托”出来 */
+.md-content {
+    background-color: transparent; 
+}
+.md-content__inner {
+    background-color: white; /* 内容卡片纯白 */
+    padding: 2rem;           /* 内边距，让文字不贴边 */
+    border-radius: 16px;     /* 大圆角 */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04); /* 高级感的悬浮阴影 */
+    margin-top: 1rem;
+}
+
+/* 5. 侧边栏微调 */
+/* 让左侧目录不需要背景色，融入整体 */
+.md-sidebar {
+    background-color: transparent;
+}
+
+/* 6. 图片美化 */
+/* 让文章里的图片自动带圆角和轻微阴影 */
+.md-typeset img {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s; /* 鼠标放上去有动画 */
+}
+.md-typeset img:hover {
+    transform: scale(1.02); /* 鼠标悬停微微放大 */
+}
+
+/* 7. 代码块美化 */
+.md-typeset pre > code {
+    border-radius: 8px; /* 代码块圆角 */
+}
+
+
+/* docs/stylesheets/extra.css */
+
+/* --- 开启全局平滑滚动 --- */
+html {
+    /* 这行代码是魔法所在 */
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+/* --- 返回顶部按钮美化 (最终稳定版：图标缩放方案) --- */
+
+/* 1. 设置按钮容器：只负责颜色和阴影，不动位置 */
+.md-top {
+    /* 定义背景色和阴影的平滑过渡 */
+    transition: background-color 0.25s, box-shadow 0.25s !important;
+    /* ⚠️ 关键：这里绝对不要写 transform，防止和主题冲突 */
+}
+
+/* 2. 鼠标悬停在按钮上时：改变容器颜色和阴影 */
+.md-top:hover {
+    background-color: #526cfe !important; /* 变深蓝 */
+    box-shadow: 0 6px 16px rgba(82, 108, 254, 0.4) !important; /* 加光晕 */
+}
+
+/* 3. 设置内部图标 (SVG)：负责动画 */
+.md-top svg {
+    /* 强制图标居中 */
+    transform-origin: center center !important;
+    /* 定义图标大小变化的过渡 */
+    transition: transform 0.25s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+    fill: white !important; /* 箭头白色 */
+}
+
+/* 4. 鼠标悬停在按钮上时：放大内部图标 */
+.md-top:hover svg {
+    /* 放大图标 1.2 倍 */
+    transform: scale(1.3) !important; 
+}
+
+
+
+
+
+/* --- GitHub 风格表格美化 --- */
+
+/* 1. 表头加粗并加深背景 */
+.md-typeset table:not([class]) thead th {
+    font-weight: bold;
+    background-color: var(--md-default-bg-color--lightest); /* 跟随主题的浅底色 */
+}
+
+/* 2. 隔行变色 (Zebra Striping) */
+/* nth-child(2n) 表示选择第 2, 4, 6... 偶数行 */
+.md-typeset table:not([class]) tbody tr:nth-child(2n) {
+    /* 使用半透明黑，这样在深色/浅色模式下都通用 */
+    background-color: rgba(0, 0, 0, 0.025);
+}
+
+/* 3. 鼠标悬停高亮 (保留并增强) */
+/* !important 确保悬停的优先级高于隔行变色 */
+.md-typeset table:not([class]) tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.08) !important; /* 加深颜色 */
+    transition: background-color 0.1s; /* 添加一点点过渡 */
+}
