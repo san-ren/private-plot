@@ -14,7 +14,7 @@ theme:
     - navigation.sections    # 侧边栏保持分类
     - navigation.expand      # 默认展开
     - navigation.top         # 返回顶部按钮
-    - toc.integrate          # 【关键】将右侧目录合并到左侧
+    # - toc.integrate          # 【关键】将右侧目录合并到左侧
     - search.suggest         # 搜索建议
     - content.code.copy      # 复制代码按钮
   palette: 
