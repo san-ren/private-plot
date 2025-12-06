@@ -38,7 +38,7 @@ jobs:
       # 【修改点 2】：添加插件安装包
       # 在 mkdocs.yml 里用了插件，这里必须 pip install 它
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin
+        run: pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-document-dates 
 
       - name: Deploy
         run: mkdocs gh-deploy --force
