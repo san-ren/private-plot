@@ -38,17 +38,6 @@
 
 
 
-## 网站模板
-
-[helloxz/onenav: 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。](https://github.com/helloxz/onenav)
-
-[eryajf/awesome-navigation: 🧭 优秀的导航项目，优质的导航站搜集整理](https://github.com/eryajf/awesome-navigation)
-
-[tuituidan/team-nav: 前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。](https://github.com/tuituidan/team-nav)
-
-[taishan666/tarzan-navigation: 泰山导航网站-java版](https://github.com/taishan666/tarzan-navigation)
-
-[eryajf/awesome-github-profile-readme-chinese: 🦩 优秀的中文区个人主页搜集](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 
 
 
@@ -56,21 +45,30 @@
 
 
 
-### 仪表盘
 
-- [Lissy93/dashy：🚀 为您构建的自托管个人仪表板。包括状态检查、小部件、主题、图标包、UI 编辑器以及更多！ --- Lissy93/dashy: 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!](https://github.com/Lissy93/dashy)
+## blog、主页、仪表盘
 
-- [gethomepage/homepage: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.](https://github.com/gethomepage/homepage)
-
-
-- [imsyy/home: 个人主页，我的个人主页，个人主页源码，主页模板，homepage](https://github.com/imsyy/home)
-
-
-
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [2025-blog-public](https://github.com/YYsuni/2025-blog-public) | [![Stars](https://img.shields.io/github/stars/YYsuni/2025-blog-public?style=flat)](https://github.com/YYsuni/2025-blog-public/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/YYsuni/2025-blog-public/main?label=Last%20Commit&style=flat)](https://github.com/YYsuni/2025-blog-public/commits/main)<br>[![Language](https://img.shields.io/github/languages/top/YYsuni/2025-blog-public?style=flat)](https://github.com/YYsuni/2025-blog-public/search?l=TypeScript) | 静态blog |
+| [home](https://github.com/imsyy/home) | [![Stars](https://img.shields.io/github/stars/imsyy/home?style=flat)](https://github.com/imsyy/home/stargazers)<br>![Archived](https://img.shields.io/badge/Archived-2025--05--29-red?style=flat)<br>[![Language](https://img.shields.io/github/languages/top/imsyy/home?style=flat)](https://github.com/imsyy/home/search?l=Vue) | 个人主页 |
+| [dashy](https://github.com/Lissy93/dashy) | [![Stars](https://img.shields.io/github/stars/Lissy93/dashy?style=flat)](https://github.com/Lissy93/dashy/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/Lissy93/dashy?label=Latest%20Release&style=flat)](https://github.com/Lissy93/dashy/releases)<br>[![Language](https://img.shields.io/github/languages/top/Lissy93/dashy?style=flat)](https://github.com/Lissy93/dashy/search?l=Vue) | 个人仪表盘 |
+| [homepage](https://github.com/gethomepage/homepage) | [![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat)](https://github.com/gethomepage/homepage/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/gethomepage/homepage?label=Latest%20Release&style=flat)](https://github.com/gethomepage/homepage/releases)<br>[![Language](https://img.shields.io/github/languages/top/gethomepage/homepage?style=flat)](https://github.com/gethomepage/homepage/search?l=JavaScript) | 个人主页 |
 
 
 
 
+
+
+## 导航站
+
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [onenav](https://github.com/helloxz/onenav) | [![Stars](https://img.shields.io/github/stars/helloxz/onenav?style=flat)](https://github.com/helloxz/onenav/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/helloxz/onenav?label=Latest%20Release&style=flat)](https://github.com/helloxz/onenav/releases)<br>[![Language](https://img.shields.io/github/languages/top/helloxz/onenav?style=flat)](https://github.com/helloxz/onenav/search?l=JavaScript) | 书签管理系统 |
+| [team-nav](https://github.com/tuituidan/team-nav) | [![Stars](https://img.shields.io/github/stars/tuituidan/team-nav?style=flat)](https://github.com/tuituidan/team-nav/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/tuituidan/team-nav?label=Latest%20Release&style=flat)](https://github.com/tuituidan/team-nav/releases)<br>[![Language](https://img.shields.io/github/languages/top/tuituidan/team-nav?style=flat)](https://github.com/tuituidan/team-nav/search?l=Java) | 前后端完整的网址导航 |
+| [tarzan-navigation](https://github.com/taishan666/tarzan-navigation) | [![Stars](https://img.shields.io/github/stars/taishan666/tarzan-navigation?style=flat)](https://github.com/taishan666/tarzan-navigation/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/taishan666/tarzan-navigation/master?label=Last%20Commit&style=flat)](https://github.com/taishan666/tarzan-navigation/commits/master)<br>[![Language](https://img.shields.io/github/languages/top/taishan666/tarzan-navigation?style=flat)](https://github.com/taishan666/tarzan-navigation/search?l=JavaScript) | 泰山导航网站-java版 |
+| [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) | [![Stars](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese?style=flat)](https://github.com/eryajf/awesome-github-profile-readme-chinese/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/eryajf/awesome-github-profile-readme-chinese/main?label=Last%20Commit&style=flat)](https://github.com/eryajf/awesome-github-profile-readme-chinese/commits/main) | 中文区优秀的个人主页搜集 |
+| [awesome-navigation](https://github.com/eryajf/awesome-navigation) | [![Stars](https://img.shields.io/github/stars/eryajf/awesome-navigation?style=flat)](https://github.com/eryajf/awesome-navigation/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/eryajf/awesome-navigation/main?label=Last%20Commit&style=flat)](https://github.com/eryajf/awesome-navigation/commits/main) |优秀的导航项目以及导航站合集  |
 
 
 
