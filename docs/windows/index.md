@@ -1,3 +1,20 @@
+## 音源
+
+
+| 项目 | 徽章 | 说明 |
+|------|------|------|
+| [lx-music-source](https://github.com/pdone/lx-music-source) | [![Stars](https://img.shields.io/github/stars/pdone/lx-music-source?style=flat)](https://github.com/pdone/lx-music-source/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/pdone/lx-music-source/main?label=Last%20Commit&style=flat)](https://github.com/pdone/lx-music-source/commits/main) | 众多洛雪音乐源 |
+| [lxmusic-](https://github.com/guoyue2010/lxmusic-) | [![Stars](https://img.shields.io/github/stars/guoyue2010/lxmusic-?style=flat)](https://github.com/guoyue2010/lxmusic-/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/guoyue2010/lxmusic-?label=Latest%20Release&style=flat)](https://github.com/guoyue2010/lxmusic-/releases) | 2025年10终止分享，转付费服务 |
+| [keep-alive](https://github.com/Huibq/keep-alive) | [![Stars](https://img.shields.io/github/stars/Huibq/keep-alive?style=flat)](https://github.com/Huibq/keep-alive/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/Huibq/keep-alive/master?label=Last%20Commit&style=flat)](https://github.com/Huibq/keep-alive/commits/master) | Huibq源：洛雪音乐音源、MusicFree音源 |
+| [music-sources](https://github.com/OneCodeMonkey/music-sources) | [![Stars](https://img.shields.io/github/stars/OneCodeMonkey/music-sources?style=flat)](https://github.com/OneCodeMonkey/music-sources/stargazers)<br>[![Last Commit](https://img.shields.io/github/last-commit/OneCodeMonkey/music-sources/master?label=Last%20Commit&style=flat)](https://github.com/OneCodeMonkey/music-sources/commits/master) | 洛雪音乐源：SixYin、Flower |
+[六音音源](https://www.sixyin.com/8498.html)
+
+
+
+
+
+
+
 
 - [fan_qiang: 随缘更新](https://github.com/qiqbaba/fan_qiang)
 
