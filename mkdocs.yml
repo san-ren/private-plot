@@ -35,6 +35,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+use_directory_urls: false
 
 plugins:
   - search
