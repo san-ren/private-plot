@@ -37,6 +37,7 @@ extra_css:
 
 use_directory_urls: false
 
+
 plugins:
   - search
   - awesome-pages
