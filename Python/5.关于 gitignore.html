@@ -1301,7 +1301,7 @@
 
 
 <h1 id="5-gitignore">5.关于 gitignore<a class="headerlink" href="#5-gitignore" title="Permanent link">&para;</a></h1>
-<div class='document-dates-plugin-wrapper document-dates-top'><div class='document-dates-plugin' locale=''><span data-tippy-content data-tippy-raw='2025-12-09'><span class='material-icons' data-icon='doc_created'></span><time datetime='2025-12-09T07:27:40.472086+00:00'>2025-12-09</time></span><span data-tippy-content data-tippy-raw='2025-12-09'><span class='material-icons' data-icon='doc_updated'></span><time datetime='2025-12-09T07:27:40.472086+00:00'>2025-12-09</time></span><span class='material-icons' data-icon='doc_author'></span><div class='avatar-group'><div class='avatar-wrapper' data-name='runner' data-tippy-content data-tippy-raw='runner'><span class='avatar-text'></span><img class='avatar' src='https://avatars.githubusercontent.com/san-ren' onerror="this.style.display='none'" /></div></div></div></div>
+<div class='document-dates-plugin-wrapper document-dates-top'><div class='document-dates-plugin' locale=''><span data-tippy-content data-tippy-raw='2025-12-09'><span class='material-icons' data-icon='doc_created'></span><time datetime='2025-12-09T10:22:39.668128+00:00'>2025-12-09</time></span><span data-tippy-content data-tippy-raw='2025-12-09'><span class='material-icons' data-icon='doc_updated'></span><time datetime='2025-12-09T10:22:39.668128+00:00'>2025-12-09</time></span><span class='material-icons' data-icon='doc_author'></span><div class='avatar-group'><div class='avatar-wrapper' data-name='runner' data-tippy-content data-tippy-raw='runner'><span class='avatar-text'></span><img class='avatar' src='https://avatars.githubusercontent.com/san-ren' onerror="this.style.display='none'" /></div></div></div></div>
 
 <h3 id="gitignore"><code>.gitignore</code> 文件规则<a class="headerlink" href="#gitignore" title="Permanent link">&para;</a></h3>
 <ul>
@@ -1338,15 +1338,39 @@
 </li>
 </ul>
 <blockquote>
-<p>[!Note]
-- <code>git check-ignore -v 文件路径</code> ：哪个文件、第几行规则导致了这个文件被忽略
-- 添加了忽略规则，但文件还是被上传了
-  - 该文件 <strong>已经被 Git 追踪（Tracked）</strong> 过了，.gitignore 只能忽略 <strong>未被追踪（Untracked）</strong> 的文件。如果文件以前提交过，Git 会继续追踪它的变化，忽略规则无效。
-  - <strong>解决办法</strong>（清理缓存）：
-       -  1. 从 Git 记录中移除（保留本地文件） <code>git rm -r --cached .venv/</code>   <br />
-       - 2. 重新提交（这次忽略规则就会生效了） <code>git commit -m "Stop tracking .venv"</code>
-</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+</div>
+<ul>
+<li><code>git check-ignore -v 文件路径</code> ：哪个文件、第几行规则导致了这个文件被忽略</li>
+<li>添加了忽略规则，但文件还是被上传了</li>
+<li>该文件 <strong>已经被 Git 追踪（Tracked）</strong> 过了，.gitignore 只能忽略 <strong>未被追踪（Untracked）</strong> 的文件。如果文件以前提交过，Git 会继续追踪它的变化，忽略规则无效。</li>
+<li><strong>解决办法</strong>（清理缓存）：<ul>
+<li>
+<ol>
+<li>从 Git 记录中移除（保留本地文件） <code>git rm -r --cached .venv/</code>     </li>
+</ol>
+</li>
+<li>
+<ol>
+<li>重新提交（这次忽略规则就会生效了） <code>git commit -m "Stop tracking .venv"</code></li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
 </blockquote>
+<ul>
+<li>
+<p><strong>!!! note (MkDocs)</strong>：<strong>靠缩进结束</strong>。一旦顶格写字，框就断了。</p>
+</li>
+<li>
+<p><strong>::: note / /// note</strong>：<strong>靠闭合符号结束</strong>。就像写代码块一样，要有始有终。</p>
+</li>
+<li>
+<p><strong>&gt; [!NOTE] (GitHub)</strong>：<strong>靠 &gt; 符号结束</strong>。一旦哪一行前面没有 &gt;，引用块就断了。</p>
+</li>
+</ul>
 
 
 
