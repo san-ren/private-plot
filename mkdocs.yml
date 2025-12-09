@@ -56,7 +56,9 @@ plugins:
 
 
 markdown_extensions:
-  - admonition            # 提示块
+  - markdown_callouts:    # 支持 GitHub 风格的 > [!note]
+      strip_period: True   # 可选：去掉某些编辑器自动生成的句号
+  - admonition            # 提示块(支持 !!! 语法)
   - pymdownx.details      # 折叠块
   - pymdownx.highlight:   # 代码高亮
       anchor_linenums: true
@@ -65,8 +67,9 @@ markdown_extensions:
       alternate_style: true 
   - toc:
       permalink: true     
-  # --- 新增的 GitHub 兼容扩展 ---
   - pymdownx.tilde        # 删除线 ~~text~~
   - pymdownx.tasklist:    # 任务列表 - [ ]
       custom_checkbox: true
   - pymdownx.magiclink    # 自动识别链接
+
+ 
