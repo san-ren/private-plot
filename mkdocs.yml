@@ -52,12 +52,11 @@ plugins:
       show_created: true       # 显示创建日期: true false, 默认: true
       show_updated: true       # 显示最后更新日期: true false, 默认: true
       show_author: true        # 显示作者: true(头像) text(文本) false(隐藏), 默认: true
-
+  - callouts   # 兼容GitHub提示框（> [!WARNING]），安装的是 `mkdocs-callouts` (这是一个 MkDocs 的插件)。
 
 
 markdown_extensions:
-  - markdown_callouts:    # 支持 GitHub 风格的 > [!note]
-      strip_period: True   # 可选：去掉某些编辑器自动生成的句号
+
   - admonition            # 提示块(支持 !!! 语法)
   - pymdownx.details      # 折叠块
   - pymdownx.highlight:   # 代码高亮
