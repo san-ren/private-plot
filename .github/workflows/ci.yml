@@ -1,48 +1,33 @@
-name: publish site 
+name: ci 
 on:
   push:
     branches:
+      - master 
       - main
-
 permissions:
   contents: write
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # 【修改点 1】：添加 fetch-depth: 0
-      # 必须拉取完整的 Git 历史，插件才能读取到文件的“修改日期”
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
-
+          fetch-depth: 0
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      
-      # 【修改点 2】：添加插件安装包
-      # 在 mkdocs.yml 里用了插件，这里必须 pip install 它
-      - name: Install dependencies
-        run: |
-          pip install mkdocs-material 
-          pip install mkdocs-awesome-pages-plugin
-          pip install mkdocs-document-dates
-          pip install mkdocs-callouts # 支持 GitHub 风格的 > [!note]
-
-      - name: Deploy
-        run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-materialx
+      - run: pip install mkdocs-document-dates
+      - run: pip install mkdocs-glightbox
+      - run: mkdocs gh-deploy --force

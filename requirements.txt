@@ -1,0 +1,4 @@
+mkdocs-materialx
+mkdocs-document-dates
+mkdocs-glightbox     # 图片灯箱特效插件
+mkdocs-callouts    # 兼容GitHub提示框（> [!WARNING]）   
