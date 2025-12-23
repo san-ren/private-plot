@@ -73,7 +73,7 @@
 | [home](https://github.com/imsyy/home) | [![Stars](https://img.shields.io/github/stars/imsyy/home?style=flat)](https://github.com/imsyy/home/stargazers)<br>![Archived](https://img.shields.io/badge/Archived-2025--05--29-red?style=flat)<br>[![Language](https://img.shields.io/github/languages/top/imsyy/home?style=flat)](https://github.com/imsyy/home/search?l=Vue) | 个人主页 |
 | [dashy](https://github.com/Lissy93/dashy) | [![Stars](https://img.shields.io/github/stars/Lissy93/dashy?style=flat)](https://github.com/Lissy93/dashy/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/Lissy93/dashy?label=Latest%20Release&style=flat)](https://github.com/Lissy93/dashy/releases)<br>[![Language](https://img.shields.io/github/languages/top/Lissy93/dashy?style=flat)](https://github.com/Lissy93/dashy/search?l=Vue) | 个人仪表盘 |
 | [homepage](https://github.com/gethomepage/homepage) | [![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat)](https://github.com/gethomepage/homepage/stargazers)<br>[![Latest Release](https://img.shields.io/github/release-date/gethomepage/homepage?label=Latest%20Release&style=flat)](https://github.com/gethomepage/homepage/releases)<br>[![Language](https://img.shields.io/github/languages/top/gethomepage/homepage?style=flat)](https://github.com/gethomepage/homepage/search?l=JavaScript) | 个人主页 |
-
+[matsuzaka-yuki/Mizuki: 下一代Material Design 3 博客主题(Astro驱动)](https://github.com/matsuzaka-yuki/Mizuki)
 
 
 
